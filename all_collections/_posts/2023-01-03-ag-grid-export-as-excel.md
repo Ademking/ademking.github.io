@@ -1,15 +1,15 @@
 ---
 layout: post
-title: How to export AG-Grid
-date: 2023-01-01 10:00:00
+title: Export AG-Grid to Excel (without Enterprise version)
+date: 2023-01-03 10:00:00
 categories: [ag-grid, angular, exceljs]
 ---
 
-Exporting data from ag-grid to Excel is a common requirement, 
-but did you know that this feature is only available in the Enterprise version of ag-grid? 
+Exporting data from ag-grid to Excel is a common requirement,
+but did you know that this feature is only available in the Enterprise version of ag-grid?
 If you are using the Community or Free version of ag-grid, you might be wondering how to export data as an Excel file.
 
-One option is to use a library like ExcelJS to generate an xlsx file from the data in ag-grid. 
+One option is to use a library like ExcelJS to generate an xlsx file from the data in ag-grid.
 In this tutorial, I will show you how to use ExcelJS with ag-grid to export data as an xlsx file in an Angular app.
 
 1. Install file-saver and exceljs
@@ -23,7 +23,7 @@ npm i --save exceljs file-saver
 ```json
 "compilerOptions": {
    ....
-     
+
    "paths": {
      "exceljs": [
        "node_modules/exceljs/dist/exceljs.min"
@@ -144,7 +144,6 @@ The method then iterates through the data array and adds each row of data to the
 The method then sets the alignment for all rows in the worksheet to top and left, and sets the wrapText property to true. It also sets the header row's fill and font colors to black and white, respectively.
 
 Finally, the method adds a filter to the header row and saves the file using the fs.saveAs() method.
-
 
 5. To use this service in your component, pass the `gridOptions` and the option object like this:
 
