@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to export AG-Grid
-date: 2023-01-03 00:00:00
+date: 2023-01-03T00:00:00Z
 categories: [ag-grid, angular, exceljs]
 ---
 
