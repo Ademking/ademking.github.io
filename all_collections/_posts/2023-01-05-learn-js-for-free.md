@@ -3,11 +3,12 @@ layout: post
 title: Free JavaScript Tutorials for Beginners
 date: 2023-01-05 10:00:00
 categories: [javascript, tutorials]
+image: https://miro.medium.com/max/1024/1*YQgaKfVzK-YpxyT3NYqJAg.png
 ---
 
-Are you interested in learning JavaScript, 
+Are you interested in learning JavaScript,
 but don't want to spend any money on courses or tutorials?
-Look no further! These resources will help you get started with JavaScript and build a solid foundation in the language. 
+Look no further! These resources will help you get started with JavaScript and build a solid foundation in the language.
 Whether you're an absolute beginner or just looking to brush up on your skills, these tutorials are a great way to learn JavaScript for free.
 
 # Learn JavaScript for FREE 🎁
@@ -15,8 +16,8 @@ Whether you're an absolute beginner or just looking to brush up on your skills, 
 ![](https://miro.medium.com/max/1260/1*-tOldEbfjijxn9VqZeULqg.gif)
 
 ## Youtube Tutorials
-    
-1. Javascript Tutorial With Programming With Mosh. 
+
+1. Javascript Tutorial With Programming With Mosh.
 
 [https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax](https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax)
 
@@ -76,7 +77,7 @@ Whether you're an absolute beginner or just looking to brush up on your skills, 
 
 [https://www.youtube.com/playlist?list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP](https://www.youtube.com/playlist?list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP)
 
-16.  JavaScript Course New.
+16. JavaScript Course New.
 
 [https://www.youtube.com/playlist?list=PLIFaUSlZr0p9nvXYn2xK84CGH7s4KZi-o](https://www.youtube.com/playlist?list=PLIFaUSlZr0p9nvXYn2xK84CGH7s4KZi-o)
 
@@ -84,15 +85,15 @@ Whether you're an absolute beginner or just looking to brush up on your skills, 
 
 [https://www.youtube.com/watch?v=dtkciwk_si4&feature=youtu.be](https://www.youtube.com/watch?v=dtkciwk_si4&feature=youtu.be)
 
-18.  JavaScript in 2 Hours.
+18. JavaScript in 2 Hours.
 
 [https://www.youtube.com/watch?v=g7T23Xzys-A&feature=youtu.be](https://www.youtube.com/watch?v=g7T23Xzys-A&feature=youtu.be)
 
-19.   JavaScript Tutorials 2021.
+19. JavaScript Tutorials 2021.
 
 [https://www.youtube.com/watch?v=1h46cNkyXlE&feature=youtu.be](https://www.youtube.com/watch?v=1h46cNkyXlE&feature=youtu.be)
 
-20.  Modern Javanese in 1 Hour
+20. Modern Javanese in 1 Hour
 
 [https://www.youtube.com/watch?v=NCwa_xi0Uuc&feature=youtu.be](https://www.youtube.com/watch?v=NCwa_xi0Uuc&feature=youtu.be)
 
@@ -100,11 +101,11 @@ Whether you're an absolute beginner or just looking to brush up on your skills, 
 
 [https://www.youtube.com/watch?v=dOnAC2Rr-6A&feature=youtu.be](https://www.youtube.com/watch?v=dOnAC2Rr-6A&feature=youtu.be)
 
-22.  JavaScript Course for Beginners 2020.
+22. JavaScript Course for Beginners 2020.
 
 [https://www.youtube.com/watch?v=2qDywOS7VAc&feature=youtu.be](https://www.youtube.com/watch?v=2qDywOS7VAc&feature=youtu.be)
 
-23.  Modern JavaScript tutorials.
+23. Modern JavaScript tutorials.
 
 [https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
 
@@ -116,7 +117,7 @@ Whether you're an absolute beginner or just looking to brush up on your skills, 
 
 [https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B](https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B)
 
-26.  JavaScript Full Course in 4 hours.
+26. JavaScript Full Course in 4 hours.
 
 [https://www.youtube.com/watch?v=ZYhGSfSfzeI&feature=youtu.be](https://www.youtube.com/watch?v=ZYhGSfSfzeI&feature=youtu.be)
 
@@ -126,7 +127,7 @@ Whether you're an absolute beginner or just looking to brush up on your skills, 
 
 28. Code academy JavaScript Course.
 
-[https://www.youtube.com/watch?v=_ixUdG1FFtM&feature=youtu.be](https://www.youtube.com/watch?v=_ixUdG1FFtM&feature=youtu.be)
+[https://www.youtube.com/watch?v=\_ixUdG1FFtM&feature=youtu.be](https://www.youtube.com/watch?v=_ixUdG1FFtM&feature=youtu.be)
 
 29. JavaScript Full Course for beginners.
 
@@ -155,7 +156,6 @@ Whether you're an absolute beginner or just looking to brush up on your skills, 
 35. JavaScript Fundamentals 11 Hours.
 
 [https://www.youtube.com/watch?v=2Ji-clqUYnA&feature=youtu.be](https://www.youtube.com/watch?v=2Ji-clqUYnA&feature=youtu.be)
-    
 
 ## Websites.
 
@@ -171,8 +171,8 @@ Whether you're an absolute beginner or just looking to brush up on your skills, 
 
 ## JavaScript Roadmap
 
-[https://twitter.com/_georgemoller/status/1443955819767373825?s=20](https://twitter.com/_georgemoller/status/1443955819767373825?s=20)
-    
+[https://twitter.com/\_georgemoller/status/1443955819767373825?s=20](https://twitter.com/_georgemoller/status/1443955819767373825?s=20)
+
 ## Udemy Courses
 
 1. [https://www.udemy.com/course/the-complete-javascript-course/](https://www.udemy.com/course/the-complete-javascript-course/)
@@ -198,36 +198,36 @@ Whether you're an absolute beginner or just looking to brush up on your skills, 
 
 ## Books.
 
-
- 1. JavaScript: The Definitive Guide: Activate Your Web Pages Definitive Guides [https://www.amazon.com/dp/B004XQX4K0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1](https://www.amazon.com/dp/B004XQX4K0/ref=dp-kindle-redirect?_encoding=UTF8&)btkr=1 
- 2. Learn JavaScript VISUALLY with Interactive Exercises: The Beautiful New Way to Learn a Programming Language Learn Visually [https://www.amazon.com/Learn-JavaScript-VISUALLY-Interactive-Exercises-ebook/dp/B00LDZ7824](https://www.amazon.)com/Learn-JavaScript-VISUALLY-Interactive-Exercises-ebook/dp/B00LDZ7824 
- 3. Eloquent JavaScript: A Modern Introduction to Programming [https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846)
- 4. JavaScript and JQuery: Interactive Front-End Web Development [https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/)1118531647 
- 5. [https://www.amazon.com/Head-First-JavaScript-Programming-Brain-Friendly/dp/144934013X/](https://www.amazon.com/Head-First-JavaScript-Programming-Brain-Friendly/dp/144934013X/)
+1.  JavaScript: The Definitive Guide: Activate Your Web Pages Definitive Guides [https://www.amazon.com/dp/B004XQX4K0/ref=dp-kindle-redirect?\_encoding=UTF8&btkr=1](https://www.amazon.com/dp/B004XQX4K0/ref=dp-kindle-redirect?_encoding=UTF8&)btkr=1
+2.  Learn JavaScript VISUALLY with Interactive Exercises: The Beautiful New Way to Learn a Programming Language Learn Visually [https://www.amazon.com/Learn-JavaScript-VISUALLY-Interactive-Exercises-ebook/dp/B00LDZ7824](https://www.amazon.)com/Learn-JavaScript-VISUALLY-Interactive-Exercises-ebook/dp/B00LDZ7824
+3.  Eloquent JavaScript: A Modern Introduction to Programming [https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846)
+4.  JavaScript and JQuery: Interactive Front-End Web Development [https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/)1118531647
+5.  [https://www.amazon.com/Head-First-JavaScript-Programming-Brain-Friendly/dp/144934013X/](https://www.amazon.com/Head-First-JavaScript-Programming-Brain-Friendly/dp/144934013X/)
 
 ## Twitter Threads
 
-1. [https://twitter.com/_georgemoller/status/1417123245652840448?s=19](https://twitter.com/_georgemoller/status/1417123245652840448?s=19)
+1. [https://twitter.com/\_georgemoller/status/1417123245652840448?s=19](https://twitter.com/_georgemoller/status/1417123245652840448?s=19)
 2. [https://twitter.com/sleeplessyogi/status/1331887771116392448?s=19](https://twitter.com/sleeplessyogi/status/1331887771116392448?s=19)
 3. [https://twitter.com/oliverjumpertz/status/1401839016555782145](https://twitter.com/oliverjumpertz/status/1401839016555782145)
-4. [https://twitter.com/sunilc_/status/1401902233478828038?s=19](https://twitter.com/sunilc_/status/1401902233478828038?s=19)
-5. [https://twitter.com/sunilc_/status/1404782412047867904?s=19](https://twitter.com/sunilc_/status/1404782412047867904?s=19)
+4. [https://twitter.com/sunilc\_/status/1401902233478828038?s=19](https://twitter.com/sunilc_/status/1401902233478828038?s=19)
+5. [https://twitter.com/sunilc\_/status/1404782412047867904?s=19](https://twitter.com/sunilc_/status/1404782412047867904?s=19)
 6. [https://twitter.com/VladPasca5/status/1375085057526796292?s=19](https://twitter.com/VladPasca5/status/1375085057526796292?s=19)
 7. [https://twitter.com/Prathkum/status/1406298132737150976?s=19](https://twitter.com/Prathkum/status/1406298132737150976?s=19)
 8. [https://twitter.com/DThompsonDev/status/1405351083250229248?s=20](https://twitter.com/DThompsonDev/status/1405351083250229248?s=20)
 
 ## Websites to Practice
 
-1. [https://www.codewars.com/ ](https://www.codewars.com/ )
+1. [https://www.codewars.com/ ](https://www.codewars.com/)
 2. [https://leetcode.com/](https://leetcode.com/)
 3. [https://edabit.com/](https://edabit.com/)
 
 ## 30 Days Challenge.
 
-1. BEST Coding Sheet for Beginners By Siddharth Singh.  
-    - [https://www.youtube.com/watch?v=3ku_nUmjElw](https://www.youtube.com/watch?v=3ku_nUmjElw)
-    - [https://drive.google.com/file/d/1jtQyoiLaANK3Yj72K7vlIvoQFb-lvtvF/view](https://drive.google.com/file/d/1jtQyoiLaANK3Yj72K7vlIvoQFb-lvtvF/view)
+1. BEST Coding Sheet for Beginners By Siddharth Singh.
+
+   - [https://www.youtube.com/watch?v=3ku_nUmjElw](https://www.youtube.com/watch?v=3ku_nUmjElw)
+   - [https://drive.google.com/file/d/1jtQyoiLaANK3Yj72K7vlIvoQFb-lvtvF/view](https://drive.google.com/file/d/1jtQyoiLaANK3Yj72K7vlIvoQFb-lvtvF/view)
 
 2. Build and Improve Logic building in Programming
-    - [https://www.youtube.com/watch?v=V7HnoKHOrM8](https://www.youtube.com/watch?v=V7HnoKHOrM8)
-    - [https://drive.google.com/file/d/10w3kjGTsEoKCZzlfvbx04uTcyYxJELVW/view](https://drive.google.com/file/d/10w3kjGTsEoKCZzlfvbx04uTcyYxJELVW/view)
+   - [https://www.youtube.com/watch?v=V7HnoKHOrM8](https://www.youtube.com/watch?v=V7HnoKHOrM8)
+   - [https://drive.google.com/file/d/10w3kjGTsEoKCZzlfvbx04uTcyYxJELVW/view](https://drive.google.com/file/d/10w3kjGTsEoKCZzlfvbx04uTcyYxJELVW/view)

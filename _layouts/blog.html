@@ -1,28 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-  {% include head.html %}
-  <body>
-    <main>
-      {% include header.html %} {% include bio.html %}
-      <section class="articles">
-        {% for post in site.posts %}
-        <article class="article">
-          <h2 class="article-title">
-            <a href="{{site.baseurl}}{{post.url}}"> {{post.title}} </a>
-          </h2>
-          <small class="date">{{post.date | date_to_string}}</small>
-          <div class="categories">
-            {% for c in post.categories %}
-            <a href="#!" data-base-url="{{site.baseurl}}" class="category"
-              >{{c}}</a
-            >
-            {% endfor %}
+{% include head.html %}
+
+<body>
+  <main>
+    {% include header.html %} {% include bio.html %}
+    <section class="articles">
+      {% for post in paginator.posts %}
+      <article class="article">
+        {% if post.image %}
+        <div class="article-img">
+          <a href="{{site.baseurl}}{{post.url}}">
+            <img src="{{post.image}}" alt="{{post.title}}" />
+          </a>
+        </div>
+        {% else %}
+        <div class="article-img">
+          <a href="{{site.baseurl}}{{post.url}}">
+            <img src="{{site.baseurl}}/assets/images/default-blog-post.png" alt="{{post.title}}" />
+          </a>
+          {% endif %}
+          <div class="article-details">
+            <h2 class="article-title">
+              <a href="{{site.baseurl}}{{post.url}}"> {{post.title}} </a>
+            </h2>
+            <small class="date">{{post.date | date_to_string}}</small>
+            <div class="categories">
+              {% for c in post.categories %}
+              <a href="#!" data-base-url="{{site.baseurl}}" class="category">{{c}}</a>
+              {% endfor %}
+            </div>
           </div>
-        </article>
-        {%endfor%}
-      </section>
-      {% include footer.html %}
-    </main>
-    {% include category-modal.html%}
-  </body>
+      </article>
+      {%endfor%}
+
+
+    </section>
+
+    {% include paginate.html %}
+
+    {% include footer.html %}
+  </main>
+  {% include category-modal.html%}
+</body>
+
 </html>

@@ -45,7 +45,7 @@ header {
 }
 main {
   margin: 0 auto;
-  max-width: 650px;
+  max-width: 80vw;
   padding: 3rem 0 4rem 0;
 }
 .article {
@@ -161,7 +161,7 @@ main {
   margin: 1rem 0;
 }
 .content img.emoji {
-	margin: 0 !important;
+  margin: 0 !important;
 }
 
 /* pre , code */
@@ -179,7 +179,7 @@ main {
 }
 
 .content code {
-  padding: 3px 5px;
+  /* padding: 3px 5px; */
   color: var(--white-2);
   white-space: pre;
   background-color: var(--gray-3);
@@ -220,4 +220,8 @@ main {
   body {
     padding: 1.5rem;
   }
+}
+
+.category::before {
+  content: "#";
 }

@@ -1,23 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-  {% include head.html %}
-  <body>
-    <main>
-      {% include header.html %}
-      <section class="article">
-        <div class="article-header">
-          <h2 class="article-title">{{page.title}}</h2>
-          <small class="date">{{page.date | date_to_string}}</small>
-          <div class="categories">
-            {% for c in page.categories %}
-            <a href="#!" class="category">{{c}}</a>
-            {% endfor %}
-          </div>
+{% include head.html %}
+
+<body>
+  <main>
+    <header>
+      <a class="site-title" href="{{site.baseurl}}/">🍪 {{site.title}}</a>
+    </header>
+    <section class="article">
+      <div class="article-header">
+        <h2 class="article-title">{{page.title}}</h2>
+        <small class="date">{{page.date | date_to_string}}</small>
+        <div class="categories">
+          {% for c in page.categories %}
+          <a href="#!" class="category">{{c}}</a>
+          {% endfor %}
         </div>
-        <div class="content">{{content}}</div>
-      </section>
-      {% include footer.html %}
-    </main>
-    {% include category-modal.html%}
-  </body>
+      </div>
+      <div class="content">{{content}}</div>
+    </section>
+    {% include footer.html %}
+  </main>
+  {% include category-modal.html%}
+</body>
+
 </html>
