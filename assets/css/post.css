@@ -225,3 +225,11 @@ main {
 .category::before {
   content: "#";
 }
+
+.giscus,
+.giscus-frame {
+  width: 80vw;
+  min-height: 150px;
+  margin: auto;
+  padding: 1rem;
+}
