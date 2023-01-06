@@ -1,4 +1,5 @@
 title: Adem's Dev Journey
+description: Adem's Dev Journey - a developer's journey through the tech world, sharing experiences and insights on software development.
 markdown: kramdown
 
 # for atom feed
@@ -11,6 +12,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-paginate
 
 collections_dir: all_collections
 collections:
@@ -25,3 +27,6 @@ defaults:
       permalink: /posts/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
 future: true
+
+paginate: 12
+paginate_path: /page-:num
