@@ -13,31 +13,39 @@
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://ademkouki.tech/">
+  {% if page.layout == "post" %}
+  <meta property="og:url" content="{{site.url}}/{{page.url}}">
+  {% else %}
+  <meta property="og:url" content="{{site.url}}/">
+  {% endif %}
   <meta property="og:title" content="{{site.title}} | {{page.title}}">
   <meta property="og:description" content="{{site.title}}">
   {% if page.layout == "post" %}
   {% if page.image %}
   <meta property="og:image" content="{{page.image}}">
   {% else %}
-  <meta property="og:image" content="https://ademkouki.tech/assets/default-blog-post.png">
+  <meta property="og:image" content="{{site.url}}/assets/default-blog-post.png">
   {% endif %}
   {% else %}
-  <meta property="og:image" content="https://ademkouki.tech/assets/ademkouki.tech.png">
+  <meta property="og:image" content="{{site.url}}/assets/ademkouki.tech.png">
   {% endif %}
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://ademkouki.tech/">
+  {% if page.layout == "post" %}
+  <meta property="twitter:url" content="{{site.url}}/{{page.url}}">
+  {% else %}
+  <meta property="twitter:url" content="{{site.url}}/">
+  {% endif %}
   <meta property="twitter:title" content="{{site.title}} | {{page.title}}">
   <meta property="twitter:description" content="{{site.title}}">
   {% if page.layout == "post" %}{% if page.image %}
   <meta property="twitter:image" content="{{page.image}}">
   {% else %}
-  <meta property="twitter:image" content="https://ademkouki.tech/assets/default-blog-post.png">
+  <meta property="twitter:image" content="{{site.url}}/assets/default-blog-post.png">
   {% endif %}
   {% else %}
-  <meta property="twitter:image" content="https://ademkouki.tech/assets/ademkouki.tech.png">
+  <meta property="twitter:image" content="{{site.url}}/assets/ademkouki.tech.png">
   {% endif %}
 
   <!-- Google tag (gtag.js) -->
