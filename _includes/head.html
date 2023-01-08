@@ -2,14 +2,22 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{{site.title}} | {{page.title}}</title>
+  {% if page.layout == "post" %}
+  <title>{{page.title}} | {{site.title}}</title>
+  {% else %}
+  <title>{{site.title}}</title>
+  {% endif %}
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
   <link rel="manifest" href="/assets/site.webmanifest">
   <!-- Primary Meta Tags -->
-  <meta name="title" content="{{site.title}} | {{page.title}}">
-  <meta name="description" content="{{site.title}}">
+  {% if page.layout == "post" %}
+  <meta name="title" content="{{page.title}} | {{site.title}}">
+  {% else %}
+  <meta name="title" content="{{site.title}}">
+  {% endif %}
+  <meta name="description" content="{{page.title}} | {{site.title}}">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
@@ -18,7 +26,7 @@
   {% else %}
   <meta property="og:url" content="{{site.url}}/">
   {% endif %}
-  <meta property="og:title" content="{{site.title}} | {{page.title}}">
+  <meta property="og:title" content="{{page.title}} | {{site.title}}">
   <meta property="og:description" content="{{site.title}}">
   {% if page.layout == "post" %}
   {% if page.image %}
