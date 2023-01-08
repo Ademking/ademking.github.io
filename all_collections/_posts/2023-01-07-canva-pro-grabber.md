@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scarping Canva Pro Links
+title: Scraping Canva Pro Invite Links
 date: 2023-01-07 10:00:00
 categories: [php, tutorials]
 image: https://i.imgur.com/OzTnmzI.png
