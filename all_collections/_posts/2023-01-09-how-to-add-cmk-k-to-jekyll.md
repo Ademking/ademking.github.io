@@ -40,6 +40,7 @@ I also added the `class="dark"` attribute to change the color of the search bar 
 In order to display the search results, we'll need to create a new JavaScript file. To do this, we'll create a new file called `search.js` in the `assets/js` directory of our site.
 
 Next, we'll add the following code to the `search.js` file:
+{% raw %}
 
 ```javascript
 ---
@@ -113,6 +114,8 @@ ninja.data = [
 <!-- Add search.js after the ninja-keys element 👇-->
 <script src="{{site.baseurl}}/assets/js/search.js"></script>
 ```
+
+{% endraw %}
 
 ## 5) Test it out!
 
