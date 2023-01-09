@@ -176,7 +176,9 @@ Don't be shy to say hi to me. I'm always happy to meet new people.
 
 ## What is your favorite quote?
 
-Someone said, `Don’t waste your time chasing butterflies. Mend your garden, and the butterflies will come.`
+Someone said:
+
+"Don’t waste your time chasing butterflies. Mend your garden, and the butterflies will come."
 
 I love this quote. It's so true. I wish I knew this quote when I was younger. I would have saved a lot of time.
 
