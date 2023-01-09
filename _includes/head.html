@@ -62,11 +62,13 @@
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
-
     gtag('config', 'G-XE03XBH6YV');
   </script>
 
   {% if page.layout == "post" %}
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/post.css" />
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/syntax.css" />
+  {% elsif page.layout == "notfound" %}
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/post.css" />
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/syntax.css" />
   {% else %}

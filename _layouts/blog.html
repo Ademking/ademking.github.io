@@ -4,7 +4,9 @@
 
 <body>
   <main>
-    {% include header.html %} {% include bio.html %}
+    {% include header.html %}
+    {% include navbar.html %}
+    {% include bio.html %}
     <section class="articles">
       {% for post in paginator.posts %}
       <article class="article">

@@ -12,6 +12,7 @@ images.forEach((image) => {
       lightbox.removeChild(lightbox.firstChild);
     }
     img.style.setProperty("cursor", "not-allowed");
+    img.setAttribute("referrerpolicy", "no-referrer");
     lightbox.appendChild(img);
     lightbox.style.setProperty("cursor", "zoom-out");
   });

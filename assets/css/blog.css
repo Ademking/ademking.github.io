@@ -31,10 +31,10 @@ body {
   background-color: var(--gray-5);
 }
 header {
-  padding: 2rem 0 4rem 0;
+  padding: 2rem 0 1rem 0;
 }
 header .site-title {
-  font-size: 4rem;
+  font-size: calc(2.5rem + 1vw);
   font-weight: bolder;
   line-height: 110%;
   color: var(--white-1);
@@ -54,10 +54,10 @@ main {
 }
 #img-wrapper img {
   border-radius: 50%;
-  max-width: 100px;
+  max-width: 80px;
 }
 #bio-wrapper {
-  margin-left: 1rem;
+  margin-left: 1.5rem;
 }
 #text-wrapper {
   line-height: 1.2rem;
@@ -159,6 +159,10 @@ main {
 }
 
 @media screen and (max-width: 550px) {
+  #img-wrapper {
+    display: none;
+  }
+
   .pagination a {
     padding: 0.1rem 0.5rem !important;
     margin: 0 0.5rem !important;
@@ -208,7 +212,7 @@ main {
   }
 
   #img-wrapper img {
-    max-width: 50px;
+    max-width: 80px;
   }
   #bio {
     align-items: flex-start;

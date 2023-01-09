@@ -1,0 +1,64 @@
+<style>
+    .navbar {
+        text-transform: uppercase;
+        font-weight: 500;
+        padding: 1rem 0 2rem 0;
+    }
+
+    .navbar * {
+        box-sizing: border-box;
+    }
+
+    .navbar li {
+        display: inline-block;
+        list-style: outside none none;
+        margin: 0 0.5em;
+        padding: 0;
+    }
+
+    .navbar a {
+        padding: 0.5em 0;
+        color: rgba(255, 255, 255, 0.5);
+        position: relative;
+        letter-spacing: 1px;
+        text-decoration: none;
+    }
+
+    .navbar a:before,
+    .navbar a:after {
+        position: absolute;
+        -webkit-transition: all 0.35s ease;
+        transition: all 0.35s ease;
+    }
+
+    .navbar a:before {
+        top: 0;
+        display: block;
+        height: 3px;
+        width: 0%;
+        content: "";
+        background-color: #c0392b;
+    }
+
+    .navbar a:hover:before,
+    .navbar .current a:before {
+        opacity: 1;
+        width: 100%;
+    }
+
+    .navbar a:hover:after,
+    .navbar .current a:after {
+        max-width: 100%;
+    }
+
+    .navbar .current a {
+        color: #ffffff !important;
+    }
+</style>
+<ul class="navbar">
+    {% assign current = page.url | remove: '.html' %}
+    <li {% if current=='/' %}class='current' {% endif %}><a href="/" data-hover="Home">Home</a></li>
+    <li {% if current=='/about' %}class='current' {% endif %}><a href="about" data-hover="About">About</a></li>
+    <li {% if current=='/portfolio' %}class='current' {% endif %}><a href="portfolio"
+            data-hover="Portfolio">Portfolio</a></li>
+</ul>

@@ -4,9 +4,8 @@
 
 <body>
   <main>
-    <header>
-      <a class="site-title" href="{{site.baseurl}}/">🍪 {{site.title}}</a>
-    </header>
+    {% include header.html %}
+    {% include navbar.html %}
     <section class="article">
       <div class="article-header">
         <h2 class="article-title">{{page.title}}</h2>
@@ -19,11 +18,13 @@
       </div>
       <div class="content">{{content}}</div>
     </section>
+    {% if page.layout == 'post' %}
     <script src="https://giscus.app/client.js" data-repo="Ademking/ademking.github.io" data-repo-id="R_kgDOItKIrQ"
       data-category="General" data-category-id="DIC_kwDOItKIrc4CTcrN" data-mapping="url" data-strict="0"
       data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="transparent_dark"
       data-lang="en" crossorigin="anonymous" async>
       </script>
+    {% endif %}
     {% include footer.html %}
   </main>
   {% include category-modal.html%}

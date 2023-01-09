@@ -1,12 +1,9 @@
 name: Adem Kouki
 dp: https://avatars.githubusercontent.com/u/12462188?v=4
-description: "
+description: '
   <p>
-  I'm a Tunisian tech enthusiast, always seeking out new ways to use my skills to benefit others.
-  </p>
-  <p>
-  Follow me on <a href='https://github.com/Ademking' target='_blank'>Github</a>
-  </p>"
+  I''m a <img class="tn-flag" src="/assets/icons/tunisia.png" /> Tunisian tech enthusiast, always seeking out new ways to use my skills to benefit others.
+  </p>'
 email: ademkingnew@gmail.com
 contact:
   - title: linkedin

@@ -75,3 +75,9 @@ hr {
   border-right: none !important;
   margin-bottom: 1.75rem !important;
 }
+
+.tn-flag {
+  display: inline-block;
+  width: 1.5rem;
+  vertical-align: top;
+}
