@@ -63,7 +63,7 @@ npm install ngx-quill
 - ✅ Automatic & Manual Cache Busting
 - ✅ Hackable
 
-A flexible and straightforward library that caches HTTP requests in Angular
+A flexible and straightforward library that caches HTTP requests
 
 To install it, simply run:
 
@@ -75,12 +75,9 @@ npm install @ngneat/cashew
 
 ![](https://i.imgur.com/PrOTj7Z.png)
 
-This is a library of UI components for Angular, based on the Ant Design system. It includes a wide range of components such as buttons, form controls, and layout components that you can use to build your Angular applications.
-
-It's my favorite UI library for Angular. There are many other UI libraries for Angular, but I prefer this one because it's easy to use and has a lot of components. It also has a great documentation.
+It's my favorite UI library for Angular. There are many other UI libraries, but I prefer this one because it's easy to use and has a lot of components. It also has a great documentation.
 
 To install, follow [this tutorial](https://ng.ant.design/docs/getting-started/en)
-
 
 ## 6) fullcalendar
 
@@ -125,9 +122,9 @@ Tailwind must be added to my list of favorite libraries. It's a utility-first CS
 
 To install it, follow [this tutorial](https://tailwindcss.com/docs/guides/angular)
 
-BONUS #1: [Tailwind UI](https://tailwindui.com/) is a collection of professionally designed and ready-to-use UI components for Tailwind CSS. It's a great resource for building your Angular applications.
+BONUS TIP #1: [Tailwind UI](https://tailwindui.com/) is a collection of professionally designed and ready-to-use UI components for Tailwind CSS. It's a great resource for building your Angular applications.
 
-BONUS #2: [https://twuing.dev/](https://twuing.dev/) The fastest way to integrate Tailwind UI components into your Angular project. It's a great tool for quickly adding Tailwind UI components to your Angular applications.
+BONUS TIP #2: [https://twuing.dev/](https://twuing.dev/) The fastest way to integrate Tailwind UI components into your Angular project. It's a great tool for quickly adding Tailwind UI components to your Angular applications.
 
 ## 10) ngx-translate
 
