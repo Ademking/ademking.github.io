@@ -22,8 +22,7 @@ In this post, I want to share with you how I created ImgSaver and how you can us
 
 ## Why ImgSaver? 🤔
 
-Imagine the image was hosted on a remote server and this image is deleted or moved to another location. In this case, the image will no longer be available and will not be displayed on the website.
-You don't control the remote server, so you can't guarantee that the image will always be available.
+If an image that's hosted on a remote server is deleted or moved to a different location, it will no longer be displayed on the website since it's not available anymore. As you don't have control over the remote server, you can't ensure that the image will always be accessible.
 
 ## How I made ImgSaver? 🛠️
 
