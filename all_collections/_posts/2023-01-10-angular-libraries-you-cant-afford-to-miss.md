@@ -3,12 +3,12 @@ layout: post
 title: "Angular Libraries You Can't Afford to Miss: My Personal Picks"
 date: 2023-01-10 10:00:00
 categories: [angular, typescript, libraries]
-image: https://i.imgur.com/WMtl0V2.png
+image: https://i.imgur.com/nWiLCs8.png
 ---
 
 In this post, I want to share some of my personal favorites libraries that I use on a regular basis.
 
-This is my top 10 list of Angular libraries that I use on a regular basis. I've tried to include libraries that are useful for a wide range of applications. 
+This is my top 10 list of Angular libraries that I use on a regular basis. I've tried to include libraries that are useful for a wide range of applications.
 
 > 📍 This list is not ordered by importance.
 
@@ -54,7 +54,7 @@ npm install ngx-quill
 
 ## 4) @ngneat/cashew
 
- A flexible and straightforward library that caches HTTP requests in Angular. 
+A flexible and straightforward library that caches HTTP requests in Angular.
 
 - ✅ HTTP Caching
 - ✅ State Management Mode
@@ -138,7 +138,4 @@ To install it, simply run:
 npm install @ngx-translate/core --save
 ```
 
-
 That's it for my top 10 list of Angular libraries. I hope you found this post useful. If you have any suggestions, please let me know in the comments. 👇
-
-

@@ -4,7 +4,7 @@
 const posts = [
     {% for post in site.posts %}
     {
-        title: "{{ post.title | escape }}",
+        title: "{{ post.title }}",
         url: "{{ site.baseurl }}{{ post.url }}",
         date: "{{ post.date | date: "%Y-%m-%d" }}",
         categories: [
