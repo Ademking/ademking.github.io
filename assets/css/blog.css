@@ -60,7 +60,7 @@ main {
   margin-left: 1.5rem;
 }
 #text-wrapper {
-  line-height: 1.2rem;
+  line-height: 2rem;
   font-weight: 300;
 }
 #text-wrapper a {
@@ -161,6 +161,10 @@ main {
 @media screen and (max-width: 550px) {
   #img-wrapper {
     display: none;
+  }
+
+  #bio-wrapper {
+    margin-left: 0;
   }
 
   .pagination a {

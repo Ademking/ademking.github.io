@@ -232,3 +232,22 @@ main {
   min-height: 150px;
   margin: auto;
 }
+
+.hero-image {
+  height: 20rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin: 0px 0px 25px 0px;
+  border-radius: 15px;
+}
+
+.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  width: 80%;
+}

@@ -3,7 +3,7 @@ layout: post
 title: "Who Am I?"
 ---
 
-<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid; width: 60vw; max-width: 400px" src="https://i.imgur.com/hhnIUp9.png"  referrerpolicy="no-referrer">
+<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid; width: 60vw; max-width: 300px" src="https://i.imgur.com/hhnIUp9.png"  referrerpolicy="no-referrer">
 
 - **Name**: Adem Kouki
 - **Born**: June 29, 1996 in _Bizerte, Tunisia_
