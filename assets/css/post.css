@@ -72,7 +72,7 @@ main {
   justify-content: flex-start;
 }
 .categories .category {
-  margin: 0 0.5rem 0 0;
+  margin: 0 0.5rem 0.5rem 0;
   display: block;
   color: var(--gray-4);
   background: var(--white-2);
