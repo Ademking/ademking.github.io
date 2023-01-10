@@ -3,7 +3,7 @@ layout: post
 title: "Who Am I?"
 ---
 
-<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid" src="https://i.imgur.com/hhnIUp9.png" height="250" referrerpolicy="no-referrer">
+<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid; width: 60vw; max-width: 400px" src="https://i.imgur.com/hhnIUp9.png"  referrerpolicy="no-referrer">
 
 - **Name**: Adem Kouki
 - **Born**: June 29, 1996 in _Bizerte, Tunisia_
@@ -29,7 +29,7 @@ I plan to post a new blog post every day, yes, every day. This is a challenge fo
 
 ## When did you start programming?
 
-<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid" src="https://i.imgur.com/uxeV9lQ.jpg" height="300" referrerpolicy="no-referrer">
+<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid; width: 60vw; max-width: 400px" src="https://i.imgur.com/uxeV9lQ.jpg" referrerpolicy="no-referrer">
 
 I started programming when I was 10 years old. I was always fascinated by technology. My dad bought me a computer and I started learning how to use it. I had a very old book about programming in BASIC and I started learning how to program. My first program was:
 
@@ -56,17 +56,17 @@ In high school, I studied science... Programming is not my specialty. My parents
 
 We changed places a lot when I was growing up because my father had to move for his job. We moved from Thibar to Beja to Bizerte. I had to change schools a lot. I had to make new friends every time we moved. I didn't have a chance to make many friends. As a result, I spent a lot of time playing with computers.
 
-<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid"  src="https://i.imgur.com/biWlARh.png" height="300" referrerpolicy="no-referrer">
+<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid; width: 60vw; max-width: 400px"  src="https://i.imgur.com/biWlARh.png"  referrerpolicy="no-referrer">
 
 After high school, I decided to make programming my specialty. I worked hard and was determined to be the best student I could be. I graduated from ISTB in 2019 and I was very proud of myself for my accomplishment.
 
-<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid" src="https://i.imgur.com/9KehZXB.jpg" height="300" referrerpolicy="no-referrer">
+<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid; width: 60vw; max-width: 400px" src="https://i.imgur.com/9KehZXB.jpg"  referrerpolicy="no-referrer">
 
 I won the first place in many programming competitions. Me and my team worked hard and we were determined to be the best team we could be. We were very successful.
 
 I really hate bragging... But I also won the award for the best student of the year.
 
-<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid"  src="https://i.imgur.com/HBEvgF7.png" height="400" referrerpolicy="no-referrer">
+<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid; width: 60vw; max-width: 400px"  src="https://i.imgur.com/HBEvgF7.png"  referrerpolicy="no-referrer">
 
 My graduation project was an application for planning, monitoring, and reporting on all of your audit missions using a risk-based approach. It's about the digitalization of Governance, Risk and Compliance (GRC) processes.
 
@@ -141,7 +141,7 @@ I love all food, but I have a special place in my heart is the "Mlaoui" (Tunisia
 
 ## What is your favorite drink?
 
-<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid"  src="https://i.imgur.com/Kl981LR.png" height="300" referrerpolicy="no-referrer">
+<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid; width: 60vw; max-width: 400px"  src="https://i.imgur.com/Kl981LR.png"  referrerpolicy="no-referrer">
 
 Coffee, of course. I can't live without it. I drink it every day. Coffee is life.
 
@@ -161,13 +161,13 @@ I'm not a big fan of sports, I don't watch sports, but I like playing basketball
 
 Cats. I love cats. I don't have a cat, but I love them. I wish I had a cat. I would name it "Cookie". 😂
 
-<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid" src="https://i.imgur.com/5bcVvum.png"  height="300" referrerpolicy="no-referrer">
+<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid; width: 60vw; max-width: 400px" src="https://i.imgur.com/5bcVvum.png"   referrerpolicy="no-referrer">
 
 ## What is your favorite thing about your hometown?
 
 I love the weather in my hometown Beja, Tunisia. It's always sunny and warm. I love it. Especially in the spring. It's so beautiful. Green everywhere. My grandparents live in the countryside, so I love going there in the spring. It's so beautiful. One week in the countryside is enough to recharge my batteries. Missing it so much.
 
-<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid" src="https://i.imgur.com/tTKjXa7.png"  height="300" referrerpolicy="no-referrer">
+<img style="display: block; margin: auto; padding: 10px; border: 5px #fff solid; width: 60vw; max-width: 400px" src="https://i.imgur.com/tTKjXa7.png"   referrerpolicy="no-referrer">
 
 ## What information do you want people to know about you?
 
