@@ -159,6 +159,7 @@ main {
 .content img {
   max-width: 100%;
   margin: 1rem 0;
+  border-radius: 8px;
 }
 .content img.emoji {
   margin: 0 !important;
@@ -213,7 +214,8 @@ main {
   max-height: 80%;
   padding: 4px;
   background-color: black;
-  border: 2px solid white;
+  /* border: 2px solid white; */
+  border-radius: 15px;
 }
 
 @media screen and (max-width: 750px) {

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Portfolio"
+type: portfolio
 ---
 
 ![](https://media.tenor.com/mNjpKjB8Xz8AAAAC/cookies.gif)
