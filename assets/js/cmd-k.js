@@ -69,5 +69,3 @@ ninja.data = [
         children: myPosts,
     },
 ];
-
-console.log(ninja.data)
