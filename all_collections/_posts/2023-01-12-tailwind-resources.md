@@ -3,7 +3,7 @@ layout: post
 title: The Ultimate Collection of Tailwind CSS Resources
 date: 2023-01-11 10:00:00
 categories: [tailwind, css, resources]
-image: https://i.imgur.com/Fp9sDrt.png
+image: /assets/images/1673455829829.png
 ---
 
 If you're a web developer, you've probably heard of Tailwind CSS by now.
