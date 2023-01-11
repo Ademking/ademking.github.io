@@ -8,7 +8,7 @@ document.querySelectorAll("div.highlight").forEach(function (pre) {
   button.addEventListener("click", function () {
     var code = pre.querySelector("code").innerText.trim();
     navigator.clipboard.writeText(code);
-    button.innerText = "Copyied!";
+    button.innerText = "Copied!";
     button.style.left = "calc(100% - 6.5rem)";
     setTimeout(function () {
       button.innerText = copyText;
