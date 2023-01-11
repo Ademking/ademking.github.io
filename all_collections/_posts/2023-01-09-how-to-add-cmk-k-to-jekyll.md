@@ -3,10 +3,8 @@ layout: post
 title: Adding cmd-k for Quick Navigation
 date: 2023-01-09 10:00:00
 categories: [javascript, jekyll, tutorial]
-image: https://i.imgur.com/70fWHm9.png
+image: /assets/images/1673405580929.png
 ---
-
-![](https://i.imgur.com/70fWHm9.png)
 
 If you're a frequent blogger or reader, you know how time-consuming it can be to search through a long list of posts for a specific piece of content.
 That's why adding a quick search feature to your blog can be a game-changer. Not only does it save time, but it also improves the user experience for your readers.
@@ -121,7 +119,7 @@ ninja.data = [
 
 Now that we've added the search bar and search results, we can test it out! To do this, open your website in a browser and press `ctrl + k` to open the search bar.
 
-![](https://i.imgur.com/70fWHm9.png)
+![](/assets/images/1673405580956.png)
 
 Don't forget to check out the [Ninja-key documentation](https://github.com/ssleptsov/ninja-keys) to learn more about the customization options.
 
