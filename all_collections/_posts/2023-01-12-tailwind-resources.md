@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ultimate Collection of Tailwind CSS Resources
-date: 2023-01-11 10:00:00
+date: 2023-01-12 10:00:00
 categories: [tailwind, css, resources]
 image: /assets/images/1673455829829.png
 ---
