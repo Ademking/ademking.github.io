@@ -58,9 +58,11 @@ The official Flutter documentation is a great resource for beginners. It covers 
 
 ## 📘 Official Course (with free certificate)
 
-Flutter Essentials - https://www.cloudskillsboost.google/quests/191
-Flutter Development - https://www.cloudskillsboost.google/quests/167
-Dart Essentials - https://www.cloudskillsboost.google/quests/190
+🔗 [Flutter Essentials](https://www.cloudskillsboost.google/quests/191)
+
+🔗 [Flutter Development](https://www.cloudskillsboost.google/quests/167)
+
+🔗 [Dart Essentials](https://www.cloudskillsboost.google/quests/190)
 
 ## 👨‍💻 Community Resources
 
