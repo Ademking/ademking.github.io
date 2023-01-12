@@ -194,7 +194,7 @@ body.light .progress-wrap {
   user-select: none;
 }
 
-#cookie-emoji {
+#cookie-clicker {
   display: inline-block;
   cursor: pointer;
   animation: rotation 3s infinite linear;
@@ -211,4 +211,24 @@ body.light .progress-wrap {
   to {
     transform: rotate(359deg);
   }
+}
+
+.em,
+.em-svg {
+  height: 1em;
+  width: 1em;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.em-cookie {
+  background-image: url(/assets/icons/cookie2.png);
+}
+
+.em-tunisia {
+  background-image: url(/assets/icons/tunisia.png);
 }
