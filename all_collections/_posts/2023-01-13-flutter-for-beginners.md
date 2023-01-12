@@ -50,7 +50,7 @@ You also need to watch the official Flutter YouTube channel. It has a lot of gre
 
 ▶️ [Flutter Official Youtube Channel](https://www.youtube.com/@flutterdev/playlists)
 
-## 📘 📘Official Documentation
+## 📘 Official Documentation
 
 The official Flutter documentation is a great resource for beginners. It covers everything from installation to deployment.
 
