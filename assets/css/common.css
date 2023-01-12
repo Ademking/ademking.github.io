@@ -185,3 +185,30 @@ body.light .progress-wrap {
   box-shadow: 0 8px 32px 0 rgba(135, 69, 31, 0.37) !important;
   backdrop-filter: blur(4px) !important;
 }
+
+.unselectable {
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+#cookie-emoji {
+  display: inline-block;
+  cursor: pointer;
+  animation: rotation 3s infinite linear;
+}
+
+.wb-title {
+  font-family: "JetBrains Mono", monospace;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}

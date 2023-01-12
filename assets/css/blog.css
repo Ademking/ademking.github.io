@@ -185,6 +185,10 @@ main {
   .articles {
     row-gap: 1.2rem;
   }
+
+  .article-img img {
+    height: 200px;
+  }
 }
 
 @media screen and (max-width: 350px) {
@@ -242,6 +246,9 @@ main {
   .articles .article .article-title,
   .articles .article .article-title a {
     font-size: 1rem;
+  }
+  .article-img img {
+    height: 150px;
   }
 }
 
