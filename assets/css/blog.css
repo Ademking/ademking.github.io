@@ -34,7 +34,7 @@ header {
   padding: 2rem 0 1rem 0;
 }
 header .site-title {
-  font-size: calc(2.5rem + 1vw);
+  font-size: clamp(30px, 4vw, 50px);
   font-weight: bolder;
   line-height: 110%;
   color: var(--white-1);
@@ -154,7 +154,7 @@ main {
     padding: 1.5rem;
   }
   header .site-title {
-    font-size: 3rem;
+    font-size: clamp(30px, 4vw, 50px);
   }
 }
 
@@ -180,7 +180,7 @@ main {
     grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
   }
   header .site-title {
-    font-size: 3rem;
+    font-size: clamp(30px, 4vw, 50px);
   }
   .articles {
     row-gap: 1.2rem;
@@ -238,7 +238,7 @@ main {
     row-gap: 1.2rem;
   }
   header .site-title {
-    font-size: 2.4rem;
+    font-size: clamp(30px, 4vw, 50px);
   }
   .article {
     padding: 1.2rem;

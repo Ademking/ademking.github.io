@@ -38,7 +38,7 @@ header {
   padding: 2rem 0 1rem 0;
 }
 .site-title {
-  font-size: 1.4rem;
+  font-size: clamp(30px, 4vw, 50px);
   font-weight: bolder;
   line-height: 110%;
   color: var(--white-1);
