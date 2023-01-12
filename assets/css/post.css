@@ -253,3 +253,7 @@ main {
   color: white;
   width: 80%;
 }
+
+p:has(img) {
+  text-align: center;
+}
