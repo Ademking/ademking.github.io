@@ -40,7 +40,7 @@ Enjoy! 💖
 
 [Tailwind CSS Highlight](https://marketplace.visualstudio.com/items?itemName=ellreka.tailwindcss-highlight) This extension highlights the utilities of TailwindCSS.
 
-This extension is useful for developers who use TailwindCSS. It helps you to see the utilities you are using in your code.
+This extension is useful for developers who use TailwindCSS. It helps you see the utilities you are using in your code.
 
 ![](/assets/images/1673645857920.png)
 
@@ -70,7 +70,7 @@ It scans and provides analysis of your code including open source dependencies a
 
 [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) This extension will display inline in the editor the size of the imported package. The extension utilizes webpack in order to detect the imported size.
 
-This extension is useful for developers who want to know the size of the imported package. It helps you to keep your codebase small.
+This extension is useful for developers who want to know the size of the imported package. It helps you keep your codebase small.
 
 ![](/assets/images/1673645858095.gif)
 
@@ -84,13 +84,13 @@ No more digging through your browser console or terminal output to find the righ
 
 ## 8. Turbo Console Log
 
-[Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) This extension helps you to log variables and objects in the console with a single button press. This extension make debugging much easier by automating the operation of writing meaningful log message.
+[Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) This extension helps you log variables and objects in the console with a single button press. This extension make debugging much easier by automating the operation of writing meaningful log message.
 
 ![](/assets/images/1673645858100.gif)
 
 ## 9. Transformer
 
-[Transformer](https://marketplace.visualstudio.com/items?itemName=dakara.transformer) My favorite extension 💖. It helps you to transform text in various ways. It's a great extension for developers who want to transform text in various ways.
+[Transformer](https://marketplace.visualstudio.com/items?itemName=dakara.transformer) My favorite extension 💖. It helps you transform text in various ways. It's a great extension for developers who want to transform text in various ways.
 
 - Align CSV - Align To Cursor - Compact CSV - Copy To New Document - Count Duplicate Lines As New Document
 - Encode / Decode - Filter Lines As New Document
@@ -113,7 +113,7 @@ No more digging through your browser console or terminal output to find the righ
 
 ## 11. i18n Ally
 
-[i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally) One of the best extension for developers who work with internationalization. It helps you to manage your translations in a better way. It supports JSON, YAML, PO, XLIFF, CSV, and more.
+[i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally) One of the best extension for developers who work with internationalization. It helps you manage your translations in a better way. It supports JSON, YAML, PO, XLIFF, CSV, and more.
 
 ![](/assets/images/1673645858190.png)
 
@@ -148,7 +148,7 @@ Similar to Copilot, Figstack can help you write code faster. You can:
 
 ## 15. Error Lens
 
-[Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) This extension helps you to see errors in your code without leaving the editor.
+[Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) This extension helps you see errors in your code without leaving the editor.
 
 It will improve highlighting of errors, warnings and other language diagnostics.
 
