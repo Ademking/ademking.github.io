@@ -5,20 +5,25 @@ cookieElems.forEach((elem) => {
     ev.preventDefault();
     const jsConfetti = new JSConfetti();
 
-    const img = new Image();
-    img.src = "/assets/icons/cookie2.png";
+    const cookieImg = new Image();
+    //const coffeeImg = new Image();
+    cookieImg.src = "/assets/icons/cookie2.png";
+    //coffeeImg.src = "/assets/icons/coffee.png";
     let imgWidth = window.innerWidth / 20;
-    console.log("imgWidth", imgWidth);
 
     jsConfetti.addConfetti({
       images: [
         {
-          src: img,
+          src: cookieImg,
           width: imgWidth,
         },
+        // {
+        //   src: coffeeImg,
+        //   width: imgWidth,
+        // },
       ],
-      confettiRadius: 1,
-      confettiNumber: 20,
+      confettiRadius: 10,
+      confettiNumber: 5,
     });
   });
 });

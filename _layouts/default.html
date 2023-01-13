@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+
+<body>
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/search.css">
+    <main>
+        {% include header.html %}
+        {% include navbar.html %}
+        {{content}}
+        {% include footer.html %}
+    </main>
+    {% include category-modal.html%}
+</body>
+
+</html>

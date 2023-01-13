@@ -9,7 +9,7 @@ document.querySelectorAll("div.highlight").forEach(function (pre) {
     var code = pre.querySelector("code").innerText.trim();
     navigator.clipboard.writeText(code);
     button.innerText = "Copied!";
-    button.style.left = "calc(100% - 6.5rem)";
+    button.style.left = "calc(100% - 6.0rem)";
     setTimeout(function () {
       button.innerText = copyText;
       button.style.left = "calc(100% - 4.5rem)";

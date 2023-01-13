@@ -1,12 +1,24 @@
 <section id="bio">
   <section id="img-wrapper">
-    <img src="{{site.data.author.dp}}" alt="" />
+    <div class="avatar avatar--lg">
+      <figure class="avatar__figure" role="img" aria-label="Olivia Gribben">
+        <svg class="avatar__placeholder" aria-hidden="true" viewBox="0 0 20 20" stroke-linecap="round"
+          stroke-linejoin="round">
+          <circle cx="10" cy="6" r="2.5" stroke="currentColor" />
+          <path d="M10,10.5a4.487,4.487,0,0,0-4.471,4.21L5.5,15.5h9l-.029-.79A4.487,4.487,0,0,0,10,10.5Z"
+            stroke="currentColor" />
+        </svg>
+        <img class="avatar__img" src="{{site.data.author.dp}}" alt="Olivia Gribben" title="Olivia Gribben">
+      </figure>
+
+      <span role="status" class="avatar__status avatar__status--active" aria-label="Active"></span>
+    </div>
   </section>
   <section id="bio-wrapper">
     <div id="text-wrapper">{{site.data.author.description}}</div>
     <div id="social-wrapper">
       {% for i in site.data.author.contact %}
-      <a href="{{i.url}}" target="_blank">
+      <a href="{{i.url}}" target="_blank" id="{{i.title}}-bio-btn">
         <img src="{{site.baseurl}}/assets/icons/{{i.title}}.svg" alt="" />
       </a>
       {%endfor%}

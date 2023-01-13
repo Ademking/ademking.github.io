@@ -69,3 +69,20 @@ ninja.data = [
         children: myPosts,
     },
 ];
+
+// if search is clicked, show search box
+
+let searchBtn = document.querySelector('#search-btn');
+
+searchBtn.addEventListener('click', () => {
+    // get user agent
+    let ua = navigator.userAgent.toLowerCase();
+    // if user agent is mobile, open search box
+    if (ua.indexOf('mobile') > -1) {
+        window.location.href = "{{ site.baseurl }}/search";
+    }
+    // if user agent is desktop, open search box
+    else {
+        ninja.open();
+    }
+});

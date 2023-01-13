@@ -1,0 +1,101 @@
+---
+layout: default
+---
+
+
+<form class="form-search form-flex-items-center">
+    <label for="search-input-cookie" class="label-sr-only">Search</label>
+    <div class="div-relative-w-full">
+        <div class="search-custom-div">
+            <svg aria-hidden="true" class="svg-w-5-h-5-text-gray-500-dark:text-gray-400" fill="currentColor"
+                viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd"
+                    d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"
+                    clip-rule="evenodd" class="css-scan-generated-variation-path-1"></path>
+            </svg>
+        </div>
+        <input type="text" id="search-input-cookie"
+            class="input-search-input-cookie-bg-gray-50-border-border-gray-300-text-gray-900-text-sm-rounded-lg-focus:ring-blue-500-focus:border-blue-500-block-w-full-pl-10-p-2-5-dark:bg-gray-700-dark:border-gray-600-dark:placeholder-gray-400-dark:text-white-dark:focus:ring-blue-500-dark:focus:border-blue-500"
+            placeholder="Search..." required="true">
+
+    </div>
+
+</form>
+
+<ul class="search-result ul-flex-flex-col-w-full-pt-2" id="search-result">
+
+
+
+</ul>
+<!-- fuse.js -->
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+<script>
+    let myData = [
+        {% for post in site.posts %}
+    {
+        "title": "{{ post.title | escape }}",
+            "url": "{{ site.baseurl }}{{ post.url }}",
+                "categories" : "{{ post.categories | join: ', ' | escape }}",
+                    "date": "{{ post.date | date_to_string }}",
+                        "image"    : "{{ post.image }}"
+    } {% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  ]
+
+
+    function search(query) {
+
+        let fuse = new Fuse(myData, {
+            keys: ['title', 'categories']
+        });
+        return fuse.search(query);
+    }
+
+    function updateResult(data) {
+        clearResult();
+        const stories = document.querySelector('#search-result');
+        data.forEach(fuzzRes => {
+            const post = fuzzRes.item;
+            const postItem = document.createElement('li');
+            let categories = post.categories.split(', ')
+                .map(cat => '#' + cat).join(' ');
+            postItem.innerHTML = `
+                <li class="li-flex-flex-row-mb-2-border-gray-400">
+                <div class="div-shadow-border-select-none-cursor-pointer-bg-white-dark:bg-gray-800-rounded-md-flex-flex-1-items-center-p-4">
+                    <div class="div-flex-flex-col-items-center-justify-center-w-10-h-10-mr-4">
+                        <a href="${post.url}" class="a-relative-block">
+                            <img alt="profil" src="/assets/icons/cookie2.png" class="img-mx-auto-object-cover-rounded-full-h-10-w-10">
+                        </a>
+                    </div>
+            <a href="${post.url}" class="div-flex-1-pl-1-md:mr-16">
+                <div class="div-font-medium-dark:text-white">
+                    ${post.title}
+                </div>
+                <div class="div-text-sm-text-gray-600-dark:text-gray-200">
+                   ${post.date} • ${categories}
+                </div>
+            </a>
+        </div>
+    </li>`;
+            stories.appendChild(postItem);
+        });
+
+    }
+
+    function clearResult() {
+        const stories = document.querySelector('#search-result');
+        stories.innerHTML = '';
+    }
+
+
+    // listen to input change
+    document.querySelector('#search-input-cookie').addEventListener('input', (e) => {
+        const searchString = e.target.value;
+        // get search results
+        const searchResults = search(searchString);
+
+        // display search results
+        updateResult(searchResults);
+
+    });
+</script>

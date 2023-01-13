@@ -20,3 +20,36 @@
 <script src="{{site.baseurl}}/assets/js/js-confetti.browser.js"></script>
 <!-- Cookie Clicker -->
 <script src="{{site.baseurl}}/assets/js/confetti.js"></script>
+<!-- Tooltips -->
+<script src="https://unpkg.com/@popperjs/core@2"></script>
+<script src="https://unpkg.com/tippy.js@6"></script>
+<script>
+  // check if macos or not
+  if (navigator.platform.toUpperCase().indexOf('MAC') >= 0) {
+    tippy('#search-btn', {
+      content: 'Cmd + K',
+      placement: 'right',
+    });
+  } else {
+    tippy('#search-btn', {
+      content: 'Ctrl + K',
+      placement: 'right',
+    });
+  }
+
+  // bio tooltips
+  tippy('#twitter-bio-btn', {
+    content: 'Twitter',
+    placement: 'bottom',
+  });
+
+  tippy('#github-bio-btn', {
+    content: 'GitHub',
+    placement: 'bottom',
+  });
+
+  tippy('#linkedin-bio-btn', {
+    content: 'LinkedIn',
+    placement: 'bottom',
+  });
+</script>
