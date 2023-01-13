@@ -30,7 +30,7 @@
   <meta property="og:description" content="{{site.title}}">
   {% if page.layout == "post" %}
   {% if page.image %}
-  <meta property="og:image" content="{{page.image}}">
+  <meta property="og:image" content="{{site.url}}{{page.image}}">
   {% else %}
   <meta property="og:image" content="{{site.url}}/assets/default-blog-post.png">
   {% endif %}
@@ -48,7 +48,7 @@
   <meta property="twitter:title" content="{{site.title}} | {{page.title}}">
   <meta property="twitter:description" content="{{site.title}}">
   {% if page.layout == "post" %}{% if page.image %}
-  <meta property="twitter:image" content="{{page.image}}">
+  <meta property="twitter:image" content="{{site.url}}{{page.image}}">
   {% else %}
   <meta property="twitter:image" content="{{site.url}}/assets/default-blog-post.png">
   {% endif %}
