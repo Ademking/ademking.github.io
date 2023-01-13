@@ -44,7 +44,6 @@ layout: default
 
 
     function search(query) {
-
         let fuse = new Fuse(myData, {
             keys: ['title', 'categories']
         });
@@ -87,15 +86,35 @@ layout: default
         stories.innerHTML = '';
     }
 
-
     // listen to input change
     document.querySelector('#search-input-cookie').addEventListener('input', (e) => {
         const searchString = e.target.value;
         // get search results
         const searchResults = search(searchString);
-
         // display search results
         updateResult(searchResults);
-
     });
+
+    // when page loaded, check if input is empty, if not, display search results
+    window.addEventListener('load', () => {
+        const searchString = document.querySelector('#search-input-cookie').value;
+        if (searchString) {
+            const searchResults = search(searchString);
+            updateResult(searchResults);
+        }
+        const searchStringFromUrl = getSearchParam();
+        if (searchStringFromUrl) {
+            const searchInput = document.querySelector('#search-input-cookie');
+            searchInput.value = searchStringFromUrl;
+            const searchResults = search(searchStringFromUrl);
+            updateResult(searchResults);
+        }
+    });
+
+    // get search params from url
+    function getSearchParam() {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get('query');
+    }
+
 </script>

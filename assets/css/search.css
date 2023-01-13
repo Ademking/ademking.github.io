@@ -528,10 +528,8 @@
   user-select: none;
 }
 
-@media (prefers-color-scheme: dark) {
-  .div-shadow-border-select-none-cursor-pointer-bg-white-dark\:bg-gray-800-rounded-md-flex-flex-1-items-center-p-4 {
-    background-color: var(--gray-4);
-  }
+.div-shadow-border-select-none-cursor-pointer-bg-white-dark\:bg-gray-800-rounded-md-flex-flex-1-items-center-p-4 {
+  background-color: var(--gray-4);
 }
 
 .div-shadow-border-select-none-cursor-pointer-bg-white-dark\:bg-gray-800-rounded-md-flex-flex-1-items-center-p-4:-webkit-inner-spin-button {
@@ -662,10 +660,8 @@
   padding: 10px 0;
 }
 
-@media (prefers-color-scheme: dark) {
-  .div-font-medium-dark\:text-white {
-    color: rgb(255 255 255/1);
-  }
+.div-font-medium-dark\:text-white {
+  color: rgb(255 255 255/1);
 }
 
 .div-font-medium-dark\:text-white:-webkit-file-upload-button {
@@ -690,10 +686,8 @@
   text-decoration: none;
 }
 
-@media (prefers-color-scheme: dark) {
-  .div-text-sm-text-gray-600-dark\:text-gray-200 {
-    color: var(--white-2);
-  }
+.div-text-sm-text-gray-600-dark\:text-gray-200 {
+  color: var(--white-2);
 }
 
 .div-text-sm-text-gray-600-dark\:text-gray-200:-webkit-file-upload-button {
