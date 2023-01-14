@@ -14,10 +14,10 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-collections_dir: all_collections
-collections:
-  posts:
-    output: true
+# collections_dir: all_collections
+# collections:
+#   posts:
+#     output: true
 
 defaults:
   - scope:
