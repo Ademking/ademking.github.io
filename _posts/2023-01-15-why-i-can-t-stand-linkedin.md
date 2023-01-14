@@ -3,7 +3,7 @@ layout: post
 title: "Why I Can't Stand LinkedIn: A Look at How the Platform Has Changed for the Worse"
 date: 2023-01-15 01:00:00
 categories: [linkedin, rant, social]
-image: https://64.media.tumblr.com/tumblr_melfmngawK1qjf2mz.gif
+image: /assets/images/1673730131763.gif
 ---
 
 This blog post is a rant. I'm going to talk about how LinkedIn has become a place for people to post irrelevant content and cringy posts.
@@ -26,11 +26,11 @@ One of the biggest changes I have noticed on LinkedIn is the increase in cringy 
 
 Sorry about the cringy posts. I had to share them with you. 😂😂
 
-![](https://i.redd.it/wc1llxco76u61.jpg)
+![](/assets/images/1673730131749.jpeg)
 
-![](https://i.redd.it/2xtgip3ybnt71.png)
+![](/assets/images/1673730131997.png)
 
-![](https://preview.redd.it/uc5hfl3taoc51.jpg?width=960&crop=smart&auto=webp&v=enabled&s=14a7573bd610f6ade9945f4e501b7484ff40b455)
+![](/assets/images/1673730131599.jpeg)
 
 That's just a few examples. There are many more. I'm sure you've seen them too.
 
