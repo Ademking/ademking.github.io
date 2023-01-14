@@ -1,6 +1,8 @@
-name: Publish Blog Drafts
+name: Publish blog drafts
 
 on:
+  schedule:
+    - cron: "*/60 * * * *"
   workflow_dispatch:
 
 jobs:
