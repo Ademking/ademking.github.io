@@ -1,16 +1,7 @@
-name: Publish Drafts
+name: Publish Blog Drafts
 
 on:
-  schedule:
-    - cron: "*/60 * * * *"
   workflow_dispatch:
-    inputs:
-      logLevel:
-        description: "Log level"
-        required: true
-        default: "warning"
-      tags:
-        description: "Test Publish Drafts"
 
 jobs:
   build:
@@ -19,8 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Jekyll Publish Drafts
-        uses: soywiz/github-action-jekyll-publish-drafts@v1
+        uses: soywiz/github-action-jekyll-publish-drafts@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_path: ./
-          branch: master
+          branch: main
