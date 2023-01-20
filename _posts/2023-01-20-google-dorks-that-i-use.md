@@ -1,6 +1,6 @@
 ---
 title: "Using Google Dorks for Advanced Searching and Information Gathering"
-date: 2023-01-19 01:00:00
+date: 2023-01-20 01:00:00
 categories: [programming]
 image: /assets/images/google-dorks.jpg
 ---
