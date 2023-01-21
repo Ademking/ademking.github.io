@@ -9,7 +9,7 @@ I was playing around with the [Monaco editor](https://microsoft.github.io/monaco
 
 ## The problem
 
-The Monaco editor is a great editor, but it doesn't have a placeholder. There is no option to add a placeholder to it.
+Monaco editor is a great editor, but it doesn't have a placeholder. There is no option to add a placeholder to it.
 
 VSCode is using Monaco, and it has a placeholder. So I decided to look at the source code of VSCode and see how they did it.
 
