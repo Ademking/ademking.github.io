@@ -1,5 +1,5 @@
 ---
-title: "Laravel Kit: A Game Changer for Laravel Developers"
+title: "Fixing Corrupted DOCX Files with PowerShell: A Step-by-Step Guide"
 date: 2023-01-25 01:00:00
 categories: [powershell, tools]
 image: /assets/images/1674672825467.png
