@@ -9,6 +9,8 @@ I use Laravel a lot for my projects, and I've always found it to be a great fram
 
 As a Laravel developer, you know how powerful and versatile the framework can be. However, managing and maintaining a Laravel project can be a tedious task, with many repetitive and time-consuming tasks that need to be performed. From running artisan commands to serving the application locally, these tasks can add up and eat into valuable development time. That's where Laravel Kit comes in - a revolutionary desktop application that streamlines the development process for Laravel developers.
 
+![](https://repository-images.githubusercontent.com/116255128/dc8c9280-7940-11eb-83ac-f2567ca28c75)
+
 Laravel Kit is a simple and elegant desktop application that requires no configuration. It automatically retrieves artisan commands from your Laravel project, making it easy to execute them in a user-friendly interface. Whether you need to run migrations, generate models, or perform other tasks, Laravel Kit makes it a breeze. This alone can save you hours of time and effort, allowing you to focus on developing your application's features.
 
 The application also comes with a magical code editor that allows you to tinker with your project's code with ease. The editor is inspired by VSCode and features a beautiful user interface with a dark theme. This feature alone can make your development process more efficient, allowing you to make changes to your code quickly and easily.
