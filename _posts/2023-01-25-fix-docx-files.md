@@ -2,7 +2,7 @@
 title: "Laravel Kit: A Game Changer for Laravel Developers"
 date: 2023-01-25 01:00:00
 categories: [powershell, tools]
-image: https://www.isunshare.com/blog/wp-content/uploads/2020/09/fixed-microsoft-word-file-corrupted-and-unreadable.png
+image: /assets/images/1674672825467.png
 ---
 
 As businesses continue to rely heavily on technology, it's become increasingly important to ensure that all systems are running smoothly. One area where this is especially true is with the generation and distribution of reports. In today's fast-paced business environment, it's essential that reports are delivered on time and in a format that can be easily read and understood. Unfortunately, this isn't always the case...
