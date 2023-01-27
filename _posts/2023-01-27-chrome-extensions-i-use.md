@@ -2,7 +2,7 @@
 title: "My Must-Have Chrome Extension List"
 date: 2023-01-27 01:00:00
 categories: [tools, extensions]
-image: /assets/images/chrome-extensions-i-use.png
+image: /assets/images/chrome-exts.jpg
 ---
 
 When using Google Chrome, there are a number of extensions that I find useful. These extensions help to improve my productivity and make my life easier. In this post, I will discuss some of the extensions that I use and why I find them useful.
