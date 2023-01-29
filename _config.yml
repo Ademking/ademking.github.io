@@ -28,5 +28,5 @@ defaults:
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
 future: true
 
-paginate: 12
+paginate: 18
 paginate_path: /page-:num
