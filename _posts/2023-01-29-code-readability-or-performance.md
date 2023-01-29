@@ -14,7 +14,7 @@ In my experience, code readability has been especially important in a small team
 
 However, this does not mean that we can neglect performance. In fact, in a small team setting, performance is even more crucial as it can directly impact the user experience and the overall success of the project. To balance this, we make sure to optimize only the parts of our code that are causing performance issues, rather than trying to optimize everything. Performance optimization is a complex topic, and there are many different ways to approach it.
 
-However, in my experience, the most effective way to optimize performance is to use a combination of tools and techniques.
+In my experience, the most effective way to optimize performance is to use a combination of tools and techniques.
 I mainly program in TypeScript (Angular, Node) and PHP (Laravel), so I will focus on these languages in this post. However, the same principles apply to other languages as well.
 
 ## TypeScript
