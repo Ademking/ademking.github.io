@@ -14,6 +14,7 @@
       <div class="hero-image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)),
     url({{page.image}});">
         <div class="hero-text">
+
           <h1>{{page.title}}</h1>
 
           <small class="date">{{page.date | date_to_string}} | {% include read_time.html %} </small>
@@ -23,9 +24,14 @@
             {% endfor %}
           </div>
 
+
         </div>
       </div>
       {% endunless %}
+      {% if page.type != 'about' %}
+      {% include audio.html %}
+      {% endif %}
+
       <div class="content">{{content}}</div>
     </section>
     {% if page.layout == 'post' %}
