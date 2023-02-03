@@ -5,7 +5,7 @@ categories: [angular, tips]
 image: /assets/images/angular.png
 ---
 
-Angular is a widely used JavaScript framework for building complex and feature-rich single-page applications.
+Angular is a widely used TypeScript-based framework for building complex and feature-rich single-page applications.
 
 In this article, we'll take a look at some of the best practices for optimizing performance in Angular applications.
 
