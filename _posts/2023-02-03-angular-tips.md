@@ -9,7 +9,7 @@ Angular is a widely used TypeScript-based framework for building complex and fea
 
 In this article, we'll take a look at some of the best practices for optimizing performance in Angular applications.
 
-## 0. Don't Use the Angular (I'm an Angular Developer... Don't Kill Me)
+## 0. Don't Use Angular (I'm an Angular Developer... Don't Kill Me)
 
 I hate to say it, but if you're building a high-performance application, you should probably consider using a different framework. Angular is not the fastest framework out there...
 
