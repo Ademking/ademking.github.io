@@ -2,7 +2,7 @@
 title: "Making the Switch from Moment.js to Day.js: A Guide"
 date: 2023-02-05 01:00:00
 categories: [extensions]
-image: https://softteco.com/media/January2022/day.js-moment-big.png
+image: assets/images/day.js-moment-big.png
 ---
 
 Moment.js is a popular JavaScript library for handling and formatting dates and times. 
