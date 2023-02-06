@@ -1,7 +1,7 @@
 ---
-title: "Making the Switch from Moment.js to Day.js: A Guide"
+title: "Making the Switch from Moment.js to Day.js"
 date: 2023-02-05 01:00:00
-categories: [extensions]
+categories: [javascript, tips]
 image: /assets/images/day.js-moment-big.png
 ---
 
