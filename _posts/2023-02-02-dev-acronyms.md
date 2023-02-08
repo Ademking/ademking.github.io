@@ -2,7 +2,7 @@
 title: "Acronyms Every Developer Should Know"
 date: 2023-02-02 01:00:00
 categories: [programming]
-cover_image: /assets/images/default-blog-post.png
+cover_image: /../assets/images/default-blog-post.png
 tags: "programming"
 canonical_url: null
 published: true

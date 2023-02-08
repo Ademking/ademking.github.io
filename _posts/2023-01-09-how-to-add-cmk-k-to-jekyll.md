@@ -3,7 +3,7 @@ layout: post
 title: Adding cmd-k for Quick Navigation
 date: 2023-01-09 10:00:00
 categories: [javascript, jekyll, tutorial]
-cover_image: /assets/images/1673405580929.png
+cover_image: /../assets/images/1673405580929.png
 tags: "javascript, jekyll, tutorial"
 canonical_url: null
 published: true
@@ -123,7 +123,7 @@ ninja.data = [
 
 Now that we've added the search bar and search results, we can test it out! To do this, open your website in a browser and press `ctrl + k` to open the search bar.
 
-![](/assets/images/1673405580956.png)
+![](/../assets/images/1673405580956.png)
 
 Don't forget to check out the [Ninja-key documentation](https://github.com/ssleptsov/ninja-keys) to learn more about the customization options.
 

@@ -2,7 +2,7 @@
 title: "Laravel Kit: A Game Changer for Laravel Developers"
 date: 2023-01-24 01:00:00
 categories: [laravel, tools]
-cover_image: /assets/images/laravel.png
+cover_image: /../assets/images/laravel.png
 tags: "laravel, tools"
 canonical_url: null
 published: true

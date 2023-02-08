@@ -2,7 +2,7 @@
 title: "Let Your Jekyll Blog Speak for Itself: Implementing Speech Synthesis"
 date: 2023-02-01 01:00:00
 categories: [jekyll, tutorial]
-cover_image: /assets/images/add-audio-to-jekyll.png
+cover_image: /../assets/images/add-audio-to-jekyll.png
 tags: "jekyll, tutorial"
 canonical_url: null
 published: true

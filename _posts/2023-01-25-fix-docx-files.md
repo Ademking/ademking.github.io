@@ -2,7 +2,7 @@
 title: "Fixing Corrupted DOCX Files with PowerShell: A Step-by-Step Guide"
 date: 2023-01-25 01:00:00
 categories: [powershell, tools]
-cover_image: /assets/images/1674672825467.png
+cover_image: /../assets/images/1674672825467.png
 tags: "powershell, tools"
 canonical_url: null
 published: true

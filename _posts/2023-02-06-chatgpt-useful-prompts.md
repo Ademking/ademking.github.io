@@ -2,7 +2,7 @@
 title: "Useful ChatGPT Prompts"
 date: 2023-02-06 01:00:00
 categories: [chatgpt, tips]
-cover_image: /assets/images/robot-dancing.gif
+cover_image: /../assets/images/robot-dancing.gif
 tags: "chatgpt, tips"
 canonical_url: null
 published: true

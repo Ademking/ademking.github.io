@@ -3,7 +3,7 @@ layout: post
 title: "The Readability-Performance Paradox: My Experience as a Small Team Developer"
 date: 2023-01-29 01:00:00
 categories: [programming]
-cover_image: /assets/images/perf.png
+cover_image: /../assets/images/perf.png
 tags: "programming, performance, readability"
 canonical_url: null
 published: true

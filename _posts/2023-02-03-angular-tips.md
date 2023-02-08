@@ -2,7 +2,7 @@
 title: "Maximizing Performance in Angular Applications: Proven Tips and Techniques"
 date: 2023-02-03 01:00:00
 categories: [angular, tips]
-cover_image: /assets/images/angular.png
+cover_image: /../assets/images/angular.png
 tags: "angular, tips"
 canonical_url: null
 published: true

@@ -2,7 +2,7 @@
 title: "UnoCSS: The instant on-demand Atomic CSS engine"
 date: 2023-02-07 01:00:00
 categories: [css, tutorial]
-cover_image: /assets/images/unocss-prev.png
+cover_image: /../assets/images/unocss-prev.png
 tags: "css, tutorial"
 canonical_url: null
 published: true
@@ -110,7 +110,7 @@ If you don't use Vite, you can read the [documentation](https://github.com/unocs
 </div>
 ```
 
-![](/assets/images/UnoCSS.jpg)
+![](/../assets/images/UnoCSS.jpg)
 
 You can see the full example [https://uno.antfu.me/play](https://uno.antfu.me/play/)
 

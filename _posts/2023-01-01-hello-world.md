@@ -7,7 +7,7 @@ tags: "general"
 canonical_url: null
 published: true
 description: Hello world!
-cover_image: /assets/images/default-blog-post.png
+cover_image: /../assets/images/default-blog-post.png
 ---
 
 Welcome to my blog!

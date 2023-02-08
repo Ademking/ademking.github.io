@@ -3,7 +3,7 @@ layout: post
 title: "Replacing Remote Images with Local Ones: How I made ImgSaver"
 date: 2023-01-11 10:00:00
 categories: [nodejs, libraries, tutorial]
-cover_image: /assets/images/1673405581014.png
+cover_image: /../assets/images/1673405581014.png
 tags: "nodejs, libraries, tutorial"
 canonical_url: null
 published: true
@@ -20,7 +20,7 @@ GitHub: [https://github.com/Ademking/imgsaver](https://github.com/Ademking/imgsa
 
 NPM: [https://www.npmjs.com/package/imgsaver](https://www.npmjs.com/package/imgsaver)
 
-![](/assets/images/1673405581017.png)
+![](/../assets/images/1673405581017.png)
 
 In this post, I want to share with you how I created ImgSaver and how you can use it in your projects.
 
@@ -306,7 +306,7 @@ For example, if you want to download all the images in the current directory and
 imgsaver -d . -o ./images
 ```
 
-![](/assets/images/1673405581045.png)
+![](/../assets/images/1673405581045.png)
 
 ## Conclusion
 

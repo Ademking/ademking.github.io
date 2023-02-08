@@ -3,7 +3,7 @@ layout: post
 title: "Why I Can't Stand LinkedIn: A Look at How the Platform Has Changed for the Worse"
 date: 2023-01-15 01:00:00
 categories: [linkedin, rant, social]
-cover_image: /assets/images/1673730131763.gif
+cover_image: /../assets/images/1673730131763.gif
 tags: "linkedin, rant, social"
 canonical_url: null
 published: true
@@ -30,11 +30,11 @@ One of the biggest changes I have noticed on LinkedIn is the increase in cringy 
 
 Sorry about the cringy posts. I had to share them with you. 😂😂
 
-![](/assets/images/1673730131749.jpeg)
+![](/../assets/images/1673730131749.jpeg)
 
-![](/assets/images/1673730131997.png)
+![](/../assets/images/1673730131997.png)
 
-![](/assets/images/1673730131599.jpeg)
+![](/../assets/images/1673730131599.jpeg)
 
 That's just a few examples. There are many more. I'm sure you've seen them too.
 

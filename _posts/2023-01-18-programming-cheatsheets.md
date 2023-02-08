@@ -3,7 +3,7 @@ layout: post
 title: "FREE Programming Cheat Sheets"
 date: 2023-01-18 01:00:00
 categories: [cheatsheets, resources]
-cover_image: /assets/images/1674124240303.gif
+cover_image: /../assets/images/1674124240303.gif
 tags: "cheatsheets, resources"
 canonical_url: null
 published: true

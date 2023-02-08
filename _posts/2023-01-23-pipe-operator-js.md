@@ -2,7 +2,7 @@
 title: "Simplifying Syntax: The Coming of the Pipeline Operator to JavaScript"
 date: 2023-01-23 01:00:00
 categories: [javascript]
-cover_image: /assets/images/pipeline.jpg
+cover_image: /../assets/images/pipeline.jpg
 tags: "javascript"
 canonical_url: null
 published: true

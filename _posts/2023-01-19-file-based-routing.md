@@ -2,7 +2,7 @@
 title: "File-based Routing: This is why I don't like it"
 date: 2023-01-19 01:00:00
 categories: [programming]
-cover_image: /assets/images/1674126954956.png
+cover_image: /../assets/images/1674126954956.png
 tags: "programming"
 canonical_url: null
 published: true
@@ -17,7 +17,7 @@ When I first started using Next.js, I was excited about all the features it offe
 
 However, as I dove deeper into the framework, I quickly realized that there was one aspect of it that I couldn't stand: **the file-based routing**.
 
-![](/assets/images/1674127435396.png)
+![](/../assets/images/1674127435396.png)
 
 The trend of file-based routing started with the introduction of the JAMstack. The idea behind the JAMstack is to build static websites using JavaScript, APIs, and Markup. The static websites are then hosted on a CDN and served to the users.
 

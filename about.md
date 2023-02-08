@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About"
-cover_image: assets/images/default-blog-post.png
+cover_image: /../assets/images/default-blog-post.png
 type: about
 ---
 

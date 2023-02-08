@@ -2,7 +2,7 @@
 title: "BetterViewer: The Ultimate Image Viewing Experience For Your Browser"
 date: 2023-02-04 01:00:00
 categories: [extensions]
-cover_image: /assets/images/betterviewer.png
+cover_image: /../assets/images/betterviewer.png
 tags: "extensions"
 canonical_url: null
 published: true

@@ -3,7 +3,7 @@ layout: post
 title: "Getting Started with Uiautomator2"
 date: 2023-01-31 01:00:00
 categories: [python, android]
-cover_image: /assets/images/python-adb.png
+cover_image: /../assets/images/python-adb.png
 tags: "python, android"
 canonical_url: null
 published: true

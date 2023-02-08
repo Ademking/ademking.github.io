@@ -2,7 +2,7 @@
 title: "My Must-Have Chrome Extension List"
 date: 2023-01-27 01:00:00
 categories: [tools, extensions]
-cover_image: /assets/images/chrome-exts.jpg
+cover_image: /../assets/images/chrome-exts.jpg
 tags: "chrome, extensions"
 canonical_url: null
 published: true
@@ -13,7 +13,7 @@ When using Google Chrome, there are a number of extensions that I find useful. T
 
 ## 1. Daily.dev
 
-![](/assets/images/dailydev.jpg)
+![](/../assets/images/dailydev.jpg)
 
 As a developer, it's essential to stay updated on the latest news and trends in the industry. However, with so many sources to choose from, it can be time-consuming to sift through all of the content to find the most relevant and high-quality articles. That's where Daily.dev comes in. Daily.dev is the fastest growing online community for developers to stay updated on the best developer news. It collects content from over 400 sources, so you don't have to waste time searching for high-quality articles. All you have to do is install the Daily.dev extension, open a new tab, and you're all set.
 
@@ -21,7 +21,7 @@ To install the Daily.dev extension, [click here](https://chrome.google.com/webst
 
 ## 2. JSON Formatter
 
-![](/assets/images/1674852904257.jpeg)
+![](/../assets/images/1674852904257.jpeg)
 
 Another essential tool for any developer is the JSON Formatter extension. This extension makes it easy to read JSON by providing features such as dark mode, syntax highlighting, collapsible trees, and indent guides. It also has a negligible impact on non-JSON pages, making it a great choice for developers who work with JSON frequently.
 
@@ -29,7 +29,7 @@ To install the JSON Formatter extension, [click here](https://chrome.google.com/
 
 ## 3. CSS Scan
 
-![](/assets/images/1674852904559.jpeg)
+![](/../assets/images/1674852904559.jpeg)
 
 CSS Scan is another must-have extension for developers. It's the fastest and easiest way to check, copy and edit CSS. With CSS Scan, you can visualize the CSS of any element you hover over instantly and copy its entire CSS rules with a single click. Plus, it's a paid extension, which you can buy from https://getcssscan.com
 
@@ -39,7 +39,7 @@ To install the CSS Scan extension, [click here](https://chrome.google.com/websto
 
 ## 4. uBlock Origin
 
-![](/assets/images/1674852904861.jpeg)
+![](/../assets/images/1674852904861.jpeg)
 
 uBlock Origin is a great content blocker that is easy on CPU and memory. It's important to note that uBlock Origin is completely unrelated to the site "ublock.org". It's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature. Out of the box, these lists of filters are loaded and enforced: uBlock Origin filter lists EasyList (ads) EasyPrivacy (tracking). This will help you to block unwanted ads and will help you to speed up your browsing experience.
 
@@ -47,7 +47,7 @@ To install the uBlock Origin extension, [click here](https://chrome.google.com/w
 
 ## 5. Extensity
 
-![](/assets/images/1674852905242.jpeg)
+![](/../assets/images/1674852905242.jpeg)
 
 Extensity is another useful extension that allows you to quickly enable and disable other chrome extensions. It helps you to keep your browser lean and fast by disabling extensions that you won't use right away. You can also turn all extensions off (and back on) with a single click, and the Profiles feature allows you to quickly switch between several extension groups.
 
@@ -55,7 +55,7 @@ To install the Extensity extension, [click here](https://chrome.google.com/webst
 
 ## 6. Picture-in-Picture Extension (by Google)
 
-![](/assets/images/1674852904288.jpeg)
+![](/../assets/images/1674852904288.jpeg)
 
 The Picture-in-Picture Extension (by Google) allows you to watch videos in a floating window (always on top of other windows) so you can keep an eye on what you’re watching while interacting with other sites or applications. This is particularly useful for developers who need to multitask while working on a project.
 
@@ -63,7 +63,7 @@ To install the Picture-in-Picture Extension (by Google), [click here](https://ch
 
 ## 7. BetterViewer
 
-![](/assets/images/bv.png)
+![](/../assets/images/bv.png)
 
 BetterViewer (made by me) is an image viewing tool that is designed to replace the built-in image viewing mode in Chrome-based web browsers.
 

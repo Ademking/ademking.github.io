@@ -3,7 +3,7 @@ layout: post
 title: "Laravel and MongoDB: A Combination to Avoid"
 date: 2023-01-08 10:00:00
 categories: [laravel, mongodb]
-cover_image: /assets/images/1673405580928.png
+cover_image: /../assets/images/1673405580928.png
 tags: "laravel, mongodb"
 canonical_url: null
 published: true
@@ -14,7 +14,7 @@ If you're thinking about using Laravel and MongoDB together in your next project
 
 ### Don't do that.
 
-![](/assets/images/1673405581160.gif)
+![](/../assets/images/1673405581160.gif)
 
 Trust me, I've been there and it's not pretty.
 

@@ -2,7 +2,7 @@
 title: "Subdomains and Security: How to Keep Your Development and Pre-Prod Environments Safe"
 date: 2023-01-22 01:00:00
 categories: [pentest]
-cover_image: /assets/images/security.jpg
+cover_image: /../assets/images/security.jpg
 tags: "pentest"
 canonical_url: null
 published: true

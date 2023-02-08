@@ -3,7 +3,7 @@ layout: post
 title: Removing Dark Classes from a Tailwind CSS code
 date: 2023-01-02 10:00:00
 categories: [tailwind, tricks, css]
-cover_image: /assets/images/1673405580473.jpeg
+cover_image: /../assets/images/1673405580473.jpeg
 tags: "tailwind, tricks, css"
 canonical_url: null
 published: true
