@@ -2,7 +2,11 @@
 title: "The perils of wildcard CORS: How to protect your web application"
 date: 2023-01-26 01:00:00
 categories: [pentest, security]
-image: /assets/images/cors-explained.gif
+cover_image: /assets/images/cors-explained.gif
+tags: "pentest, security"
+canonical_url: null
+published: false
+description: "The perils of wildcard CORS: How to protect your web application"
 ---
 
 When building a web application, it is important to consider the security implications of the "Access-Control-Allow-Origin" header.

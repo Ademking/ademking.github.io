@@ -3,7 +3,11 @@ layout: post
 title: Free JavaScript Tutorials for Beginners
 date: 2023-01-05 10:00:00
 categories: [javascript, resources, tutorials]
-image: https://miro.medium.com/max/1024/1*YQgaKfVzK-YpxyT3NYqJAg.png
+cover_image: https://miro.medium.com/max/1024/1*YQgaKfVzK-YpxyT3NYqJAg.png
+tags: "javascript, resources, tutorials"
+canonical_url: null
+published: false
+description: Free JavaScript Tutorials for Beginners
 ---
 
 Are you interested in learning JavaScript,

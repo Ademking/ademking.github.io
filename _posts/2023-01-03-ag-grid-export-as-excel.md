@@ -3,7 +3,11 @@ layout: post
 title: Export AG-Grid to Excel (without Enterprise version)
 date: 2023-01-03 10:00:00
 categories: [typescript, angular, tutorial]
-image: /assets/images/1673405580496.jpeg
+cover_image: /assets/images/1673405580496.jpeg
+tags: "typescript, angular, tutorial"
+canonical_url: null
+published: false
+description: Export AG-Grid to Excel (without Enterprise version)
 ---
 
 Exporting data from ag-grid to Excel is a common requirement,

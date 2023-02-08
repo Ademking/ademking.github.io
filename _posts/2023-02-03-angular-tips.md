@@ -2,7 +2,11 @@
 title: "Maximizing Performance in Angular Applications: Proven Tips and Techniques"
 date: 2023-02-03 01:00:00
 categories: [angular, tips]
-image: /assets/images/angular.png
+cover_image: /assets/images/angular.png
+tags: "angular, tips"
+canonical_url: null
+published: false
+description: "Maximizing Performance in Angular Applications: Proven Tips and Techniques"
 ---
 
 Angular is a widely used TypeScript-based framework for building complex and feature-rich single-page applications.

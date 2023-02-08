@@ -3,7 +3,11 @@ layout: post
 title: "Laravel and MongoDB: A Combination to Avoid"
 date: 2023-01-08 10:00:00
 categories: [laravel, mongodb]
-image: /assets/images/1673405580928.png
+cover_image: /assets/images/1673405580928.png
+tags: "laravel, mongodb"
+canonical_url: null
+published: false
+description: "Laravel and MongoDB: A Combination to Avoid"
 ---
 
 If you're thinking about using Laravel and MongoDB together in your next project, I have three words for you:

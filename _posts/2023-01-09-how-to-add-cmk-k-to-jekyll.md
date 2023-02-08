@@ -3,7 +3,11 @@ layout: post
 title: Adding cmd-k for Quick Navigation
 date: 2023-01-09 10:00:00
 categories: [javascript, jekyll, tutorial]
-image: /assets/images/1673405580929.png
+cover_image: /assets/images/1673405580929.png
+tags: "javascript, jekyll, tutorial"
+canonical_url: null
+published: false
+description: "Adding cmd-k for Quick Navigation"
 ---
 
 If you're a frequent blogger or reader, you know how time-consuming it can be to search through a long list of posts for a specific piece of content.

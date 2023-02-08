@@ -3,7 +3,11 @@ layout: post
 title: "Replacing Remote Images with Local Ones: How I made ImgSaver"
 date: 2023-01-11 10:00:00
 categories: [nodejs, libraries, tutorial]
-image: /assets/images/1673405581014.png
+cover_image: /assets/images/1673405581014.png
+tags: "nodejs, libraries, tutorial"
+canonical_url: null
+published: false
+description: "Replacing Remote Images with Local Ones: How I made ImgSaver"
 ---
 
 I was working on a project that involves a lot of images, some from my own server, and some from external sources.

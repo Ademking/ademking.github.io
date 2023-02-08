@@ -3,7 +3,11 @@ layout: post
 title: "Getting Started with Flutter: The Best Resources for Beginners"
 date: 2023-01-13 10:00:00
 categories: [flutter, dart, resources]
-image: /assets/images/1673544323790.png
+cover_image: /assets/images/1673544323790.png
+tags: "flutter, dart, resources"
+canonical_url: null
+published: false
+description: "Getting Started with Flutter: The Best Resources for Beginners"
 ---
 
 If you're new to Flutter and looking to get started, you're in the right place.

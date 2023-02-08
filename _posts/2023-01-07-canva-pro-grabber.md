@@ -3,7 +3,11 @@ layout: post
 title: Scraping Canva Pro Invite Links
 date: 2023-01-07 10:00:00
 categories: [php, tutorials]
-image: /assets/images/1673405580915.png
+cover_image: /assets/images/1673405580915.png
+tags: "php, tutorials"
+canonical_url: null
+published: false
+description: Scraping Canva Pro Invite Links
 ---
 
 My community has been asking me for Canva Pro invite links for a while now. I have been giving them out manually, but I thought it would be easier to automate the process. I decided to use PHP to scrape the latest tweets containing Canva Pro invite links and save them in a JSON file. This way, I can just send them the website link and they can get the invite link themselves.

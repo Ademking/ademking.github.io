@@ -10,10 +10,10 @@
     <section class="articles">
       {% for post in paginator.posts %}
       <article class="article">
-        {% if post.image %}
+        {% if post.cover_image %}
         <div class="article-img">
           <a href="{{site.baseurl}}{{post.url}}">
-            <img src="{{post.image}}" alt="{{post.title}}" referrerpolicy="no-referrer" />
+            <img src="{{post.cover_image}}" alt="{{post.title}}" referrerpolicy="no-referrer" />
           </a>
         </div>
         {% else %}

@@ -3,7 +3,11 @@ layout: post
 title: "Why I Can't Stand LinkedIn: A Look at How the Platform Has Changed for the Worse"
 date: 2023-01-15 01:00:00
 categories: [linkedin, rant, social]
-image: /assets/images/1673730131763.gif
+cover_image: /assets/images/1673730131763.gif
+tags: "linkedin, rant, social"
+canonical_url: null
+published: false
+description: "Why I Can't Stand LinkedIn: A Look at How the Platform Has Changed for the Worse"
 ---
 
 This blog post is a rant. I'm going to talk about how LinkedIn has become a place for people to post irrelevant content and cringy posts.

@@ -3,7 +3,11 @@ layout: post
 title: "FREE Programming Cheat Sheets"
 date: 2023-01-18 01:00:00
 categories: [cheatsheets, resources]
-image: /assets/images/1674124240303.gif
+cover_image: /assets/images/1674124240303.gif
+tags: "cheatsheets, resources"
+canonical_url: null
+published: false
+description: "FREE Programming Cheat Sheets"
 ---
 
 Programming is a vast field and it is very difficult to remember all the syntaxes and commands. So, I have compiled a list of programming cheat sheets that will help you to remember the syntaxes and commands.

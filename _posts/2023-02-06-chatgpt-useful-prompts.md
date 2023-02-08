@@ -2,7 +2,11 @@
 title: "Useful ChatGPT Prompts"
 date: 2023-02-06 01:00:00
 categories: [chatgpt, tips]
-image: /assets/images/robot-dancing.gif
+cover_image: /assets/images/robot-dancing.gif
+tags: "chatgpt, tips"
+canonical_url: null
+published: false
+description: "Useful ChatGPT Prompts"
 ---
 
 ChatGPT is a popular chatbot that can be used to generate realistic conversations. It is based on the GPT-3 language model, which is a state-of-the-art neural network that can be used to generate text.

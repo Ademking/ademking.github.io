@@ -3,7 +3,11 @@ layout: post
 title: "Making Report Generation a Piece of Cake"
 date: 2023-01-16 01:00:00
 categories: [nodejs, libraries, tutorial]
-image: /assets/images/1673870544850.jpeg
+cover_image: /assets/images/1673870544850.jpeg
+tags: "nodejs, libraries, tutorial"
+canonical_url: null
+published: false
+description: "Making Report Generation a Piece of Cake"
 ---
 
 It was a typical Monday morning and I was assigned a new task, to create an application that generates reports from user input data. The catch was that the input data was coming from a WYSIWYG editor and it was in the form of HTML.

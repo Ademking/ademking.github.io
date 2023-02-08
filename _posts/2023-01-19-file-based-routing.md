@@ -2,7 +2,11 @@
 title: "File-based Routing: This is why I don't like it"
 date: 2023-01-19 01:00:00
 categories: [programming]
-image: /assets/images/1674126954956.png
+cover_image: /assets/images/1674126954956.png
+tags: "programming"
+canonical_url: null
+published: false
+description: "File-based Routing: This is why I don't like it"
 ---
 
 ```

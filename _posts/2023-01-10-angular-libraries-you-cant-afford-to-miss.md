@@ -3,7 +3,11 @@ layout: post
 title: "Angular Libraries You Can't Afford to Miss: My Personal Picks"
 date: 2023-01-10 10:00:00
 categories: [angular, typescript, libraries]
-image: /assets/images/1673405580943.png
+cover_image: /assets/images/1673405580943.png
+tags: "angular, typescript, libraries"
+canonical_url: null
+published: false
+description: "Angular Libraries You Can't Afford to Miss: My Personal Picks"
 ---
 
 In this post, I want to share some of my personal favorites libraries that I use on a regular basis.

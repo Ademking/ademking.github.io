@@ -2,7 +2,11 @@
 title: "Let Your Jekyll Blog Speak for Itself: Implementing Speech Synthesis"
 date: 2023-02-01 01:00:00
 categories: [jekyll, tutorial]
-image: /assets/images/add-audio-to-jekyll.png
+cover_image: /assets/images/add-audio-to-jekyll.png
+tags: "jekyll, tutorial"
+canonical_url: null
+published: false
+description: "Let Your Jekyll Blog Speak for Itself: Implementing Speech Synthesis"
 ---
 
 In this blog post, I will show you how to add Speech Synthesis to your Jekyll blog. This feature is available in all modern browsers and is a great way to add accessibility to your blog. It is also a great way to add a little bit of fun to your blog. I will show you how to add a button to your blog that will read the content of the blog post aloud.

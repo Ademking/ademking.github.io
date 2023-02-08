@@ -3,7 +3,11 @@ layout: post
 title: "The Readability-Performance Paradox: My Experience as a Small Team Developer"
 date: 2023-01-29 01:00:00
 categories: [programming]
-image: /assets/images/perf.png
+cover_image: /assets/images/perf.png
+tags: "programming, performance, readability"
+canonical_url: null
+published: false
+description: "The Readability-Performance Paradox: My Experience as a Small Team Developer"
 ---
 
 As a software developer working in a small team, maintaining a balance between code readability and performance is a constant challenge. On one hand, code readability is crucial for ensuring that other team members can understand and work with our code. On the other hand, performance is essential for delivering a seamless user experience.

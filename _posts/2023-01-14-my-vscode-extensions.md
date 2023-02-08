@@ -3,7 +3,11 @@ layout: post
 title: "VSCode Extensions That Makes My Work Easier: A Review"
 date: 2023-01-14 10:00:00
 categories: [vscode, extensions]
-image: /assets/images/1673645857633.png
+cover_image: /assets/images/1673645857633.png
+tags: "vscode, extensions"
+canonical_url: null
+published: false
+description: "VSCode Extensions That Makes My Work Easier: A Review"
 ---
 
 If you're a developer, you probably use VSCode. It's one of the best code editors out there. It's fast, lightweight, and has a lot of great features.
