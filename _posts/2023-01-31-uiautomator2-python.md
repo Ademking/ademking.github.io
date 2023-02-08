@@ -6,7 +6,7 @@ categories: [python, android]
 cover_image: /assets/images/python-adb.png
 tags: "python, android"
 canonical_url: null
-published: false
+published: true
 description: "Getting Started with Uiautomator2"
 ---
 

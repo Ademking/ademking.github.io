@@ -5,7 +5,7 @@ date: 2023-01-01 10:00:00
 categories: [general]
 tags: "general"
 canonical_url: null
-published: false
+published: true
 description: Hello world!
 cover_image: /assets/images/default-blog-post.png
 ---

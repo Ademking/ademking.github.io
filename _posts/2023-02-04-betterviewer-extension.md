@@ -5,7 +5,7 @@ categories: [extensions]
 cover_image: /assets/images/betterviewer.png
 tags: "extensions"
 canonical_url: null
-published: false
+published: true
 description: "BetterViewer: The Ultimate Image Viewing Experience For Your Browser"
 ---
 

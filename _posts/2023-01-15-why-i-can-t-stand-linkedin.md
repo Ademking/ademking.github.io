@@ -6,7 +6,7 @@ categories: [linkedin, rant, social]
 cover_image: /assets/images/1673730131763.gif
 tags: "linkedin, rant, social"
 canonical_url: null
-published: false
+published: true
 description: "Why I Can't Stand LinkedIn: A Look at How the Platform Has Changed for the Worse"
 ---
 

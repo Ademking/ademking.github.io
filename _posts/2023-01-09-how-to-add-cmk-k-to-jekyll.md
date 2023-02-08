@@ -6,7 +6,7 @@ categories: [javascript, jekyll, tutorial]
 cover_image: /assets/images/1673405580929.png
 tags: "javascript, jekyll, tutorial"
 canonical_url: null
-published: false
+published: true
 description: "Adding cmd-k for Quick Navigation"
 ---
 

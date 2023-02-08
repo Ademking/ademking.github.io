@@ -6,7 +6,7 @@ categories: [nodejs, javascript, pentest]
 cover_image: /assets/images/1673405580485.png
 tags: "nodejs, javascript, pentest"
 canonical_url: null
-published: false
+published: true
 description: Using Node.js to Parse a JSON File Generated from WPScan
 ---
 

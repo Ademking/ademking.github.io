@@ -5,7 +5,7 @@ categories: [tools, extensions]
 cover_image: /assets/images/chrome-exts.jpg
 tags: "chrome, extensions"
 canonical_url: null
-published: false
+published: true
 description: "My Must-Have Chrome Extension List"
 ---
 

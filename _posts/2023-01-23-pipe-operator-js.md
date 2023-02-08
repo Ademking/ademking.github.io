@@ -5,7 +5,7 @@ categories: [javascript]
 cover_image: /assets/images/pipeline.jpg
 tags: "javascript"
 canonical_url: null
-published: false
+published: true
 description: "Simplifying Syntax: The Coming of the Pipeline Operator to JavaScript"
 ---
 

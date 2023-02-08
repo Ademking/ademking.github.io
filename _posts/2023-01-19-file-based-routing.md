@@ -5,7 +5,7 @@ categories: [programming]
 cover_image: /assets/images/1674126954956.png
 tags: "programming"
 canonical_url: null
-published: false
+published: true
 description: "File-based Routing: This is why I don't like it"
 ---
 

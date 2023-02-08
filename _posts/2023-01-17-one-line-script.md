@@ -6,7 +6,7 @@ categories: [commands, pentest]
 cover_image: /assets/images/1673958014729.gif
 tags: "commands, pentest"
 canonical_url: null
-published: false
+published: true
 description: "One-liner Bug Hunting: My Favorite Commands"
 ---
 

@@ -6,7 +6,7 @@ categories: [laravel, mongodb]
 cover_image: /assets/images/1673405580928.png
 tags: "laravel, mongodb"
 canonical_url: null
-published: false
+published: true
 description: "Laravel and MongoDB: A Combination to Avoid"
 ---
 

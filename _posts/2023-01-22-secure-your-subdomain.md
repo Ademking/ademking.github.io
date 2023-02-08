@@ -5,7 +5,7 @@ categories: [pentest]
 cover_image: /assets/images/security.jpg
 tags: "pentest"
 canonical_url: null
-published: false
+published: true
 description: "Subdomains and Security: How to Keep Your Development and Pre-Prod Environments Safe"
 ---
 

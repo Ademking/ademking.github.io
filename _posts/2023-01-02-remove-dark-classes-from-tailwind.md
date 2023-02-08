@@ -6,7 +6,7 @@ categories: [tailwind, tricks, css]
 cover_image: /assets/images/1673405580473.jpeg
 tags: "tailwind, tricks, css"
 canonical_url: null
-published: false
+published: true
 description: Removing Dark Classes from a Tailwind CSS code
 ---
 

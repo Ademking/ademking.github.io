@@ -5,7 +5,7 @@ categories: [chatgpt, tips]
 cover_image: /assets/images/robot-dancing.gif
 tags: "chatgpt, tips"
 canonical_url: null
-published: false
+published: true
 description: "Useful ChatGPT Prompts"
 ---
 

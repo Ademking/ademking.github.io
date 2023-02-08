@@ -6,7 +6,7 @@ categories: [typescript, angular, tutorial]
 cover_image: /assets/images/1673405580496.jpeg
 tags: "typescript, angular, tutorial"
 canonical_url: null
-published: false
+published: true
 description: Export AG-Grid to Excel (without Enterprise version)
 ---
 

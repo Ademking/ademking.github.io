@@ -5,7 +5,7 @@ categories: [angular, tips]
 cover_image: /assets/images/angular.png
 tags: "angular, tips"
 canonical_url: null
-published: false
+published: true
 description: "Maximizing Performance in Angular Applications: Proven Tips and Techniques"
 ---
 

@@ -5,7 +5,7 @@ categories: [programming]
 cover_image: /assets/images/default-blog-post.png
 tags: "programming"
 canonical_url: null
-published: false
+published: true
 description: "Acronyms Every Developer Should Know"
 ---
 

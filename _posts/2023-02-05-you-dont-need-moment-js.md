@@ -5,7 +5,7 @@ categories: [javascript, tips]
 cover_image: /assets/images/day.js-moment-big.png
 tags: "javascript, tips"
 canonical_url: null
-published: false
+published: true
 description: "Making the Switch from Moment.js to Day.js"
 ---
 

@@ -5,7 +5,7 @@ categories: [react, programming]
 cover_image: /assets/images/1674320695421.png
 tags: "react, programming"
 canonical_url: null
-published: false
+published: true
 description: "How to add a placeholder to Monaco editor"
 ---
 

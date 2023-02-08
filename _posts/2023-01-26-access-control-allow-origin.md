@@ -5,7 +5,7 @@ categories: [pentest, security]
 cover_image: /assets/images/cors-explained.gif
 tags: "pentest, security"
 canonical_url: null
-published: false
+published: true
 description: "The perils of wildcard CORS: How to protect your web application"
 ---
 

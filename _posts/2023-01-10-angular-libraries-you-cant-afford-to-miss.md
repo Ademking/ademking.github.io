@@ -6,7 +6,7 @@ categories: [angular, typescript, libraries]
 cover_image: /assets/images/1673405580943.png
 tags: "angular, typescript, libraries"
 canonical_url: null
-published: false
+published: true
 description: "Angular Libraries You Can't Afford to Miss: My Personal Picks"
 ---
 

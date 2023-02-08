@@ -5,7 +5,7 @@ categories: [laravel, tools]
 cover_image: /assets/images/laravel.png
 tags: "laravel, tools"
 canonical_url: null
-published: false
+published: true
 description: "Laravel Kit: A Game Changer for Laravel Developers"
 ---
 

@@ -5,7 +5,7 @@ categories: [powershell, tools]
 cover_image: /assets/images/1674672825467.png
 tags: "powershell, tools"
 canonical_url: null
-published: false
+published: true
 description: "Fixing Corrupted DOCX Files with PowerShell: A Step-by-Step Guide"
 ---
 

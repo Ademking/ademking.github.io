@@ -6,7 +6,7 @@ categories: [nodejs, libraries, tutorial]
 cover_image: /assets/images/1673870544850.jpeg
 tags: "nodejs, libraries, tutorial"
 canonical_url: null
-published: false
+published: true
 description: "Making Report Generation a Piece of Cake"
 ---
 

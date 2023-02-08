@@ -6,7 +6,7 @@ categories: [flutter, dart, resources]
 cover_image: /assets/images/1673544323790.png
 tags: "flutter, dart, resources"
 canonical_url: null
-published: false
+published: true
 description: "Getting Started with Flutter: The Best Resources for Beginners"
 ---
 

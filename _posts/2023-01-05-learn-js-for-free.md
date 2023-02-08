@@ -6,7 +6,7 @@ categories: [javascript, resources, tutorials]
 cover_image: https://miro.medium.com/max/1024/1*YQgaKfVzK-YpxyT3NYqJAg.png
 tags: "javascript, resources, tutorials"
 canonical_url: null
-published: false
+published: true
 description: Free JavaScript Tutorials for Beginners
 ---
 

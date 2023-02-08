@@ -6,7 +6,7 @@ categories: [vscode, extensions]
 cover_image: /assets/images/1673645857633.png
 tags: "vscode, extensions"
 canonical_url: null
-published: false
+published: true
 description: "VSCode Extensions That Makes My Work Easier: A Review"
 ---
 

@@ -6,7 +6,7 @@ categories: [programming]
 cover_image: /assets/images/perf.png
 tags: "programming, performance, readability"
 canonical_url: null
-published: false
+published: true
 description: "The Readability-Performance Paradox: My Experience as a Small Team Developer"
 ---
 

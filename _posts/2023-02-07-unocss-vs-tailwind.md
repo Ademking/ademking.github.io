@@ -5,7 +5,7 @@ categories: [css, tutorial]
 cover_image: /assets/images/unocss-prev.png
 tags: "css, tutorial"
 canonical_url: null
-published: false
+published: true
 description: "UnoCSS: The instant on-demand Atomic CSS engine"
 ---
 

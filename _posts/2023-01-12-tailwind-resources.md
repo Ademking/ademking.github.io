@@ -6,7 +6,7 @@ categories: [tailwind, css, resources]
 cover_image: /assets/images/1673455829829.png
 tags: "tailwind, css, resources"
 canonical_url: null
-published: false
+published: true
 description: The Ultimate Collection of Tailwind CSS Resources
 ---
 
