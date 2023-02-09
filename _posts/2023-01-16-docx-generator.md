@@ -3,19 +3,15 @@ layout: post
 title: "Making Report Generation a Piece of Cake"
 date: 2023-01-16 01:00:00
 categories: [nodejs, libraries, tutorial]
-cover_image: /../assets/images/1673870544850.jpeg
-tags: "nodejs, libraries, tutorial"
-canonical_url: null
-published: true
-description: "Making Report Generation a Piece of Cake"
+image: /assets/images/1673870544850.jpeg
 ---
 
 It was a typical Monday morning and I was assigned a new task, to create an application that generates reports from user input data. The catch was that the input data was coming from a WYSIWYG editor and it was in the form of HTML.
 
-![](/../assets/images/1673870544546.png)
+![](/assets/images/1673870544546.png)
 
 The users were inserting tables inside tables, images, custom fonts and it was all HTML. I knew right away that parsing HTML with all those nested elements and custom formatting is not an easy task, but I was determined to find a solution.
-![](/../assets/images/1673870544547.jpeg)
+![](/assets/images/1673870544547.jpeg)
 
 I tried many programming languages like Python, PHP, (I hate Java... I'm not using it)...
 I spent hours trying to find a solution, but nothing seemed to work.
@@ -65,7 +61,7 @@ It's important to note that this is just an example and the code might need some
 
 One of its best features is the support of loops and if statements, which allows for dynamic data to be easily inserted into the document. However, it's worth noting that using these features can be tricky and small changes in the template or data can cause the document to collapse...
 
-![](/../assets/images/1673870544536.gif)
+![](/assets/images/1673870544536.gif)
 
 For more detailed documentation and examples on how to use the docx-templates library, please visit the GitHub repository at [https://github.com/guigrpa/docx-templates](https://github.com/guigrpa/docx-templates).
 

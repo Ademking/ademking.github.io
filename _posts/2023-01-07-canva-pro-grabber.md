@@ -3,11 +3,7 @@ layout: post
 title: Scraping Canva Pro Invite Links
 date: 2023-01-07 10:00:00
 categories: [php, tutorials]
-cover_image: /../assets/images/1673405580915.png
-tags: "php, tutorials"
-canonical_url: null
-published: true
-description: Scraping Canva Pro Invite Links
+image: /assets/images/1673405580915.png
 ---
 
 My community has been asking me for Canva Pro invite links for a while now. I have been giving them out manually, but I thought it would be easier to automate the process. I decided to use PHP to scrape the latest tweets containing Canva Pro invite links and save them in a JSON file. This way, I can just send them the website link and they can get the invite link themselves.
@@ -134,7 +130,7 @@ To run the script every hour, you need to host the script on a server. You can u
 
 Every time the script runs, it will update the `canva.json` file with the latest tweets containing Canva Pro invite links.
 
-![](/../assets/images/1673405580912.png)
+![](/assets/images/1673405580912.png)
 
 ## 4) Using the Script
 
@@ -142,7 +138,7 @@ Now that we have the script running, we can use it to get the latest Canva Pro i
 
 Link to the website: [https://canvapro.surge.sh/](https://canvapro.surge.sh/)
 
-![](/../assets/images/1673405580924.png)
+![](/assets/images/1673405580924.png)
 
 ## Conclusion:
 

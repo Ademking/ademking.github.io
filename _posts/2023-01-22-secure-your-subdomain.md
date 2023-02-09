@@ -2,11 +2,7 @@
 title: "Subdomains and Security: How to Keep Your Development and Pre-Prod Environments Safe"
 date: 2023-01-22 01:00:00
 categories: [pentest]
-cover_image: /../assets/images/security.jpg
-tags: "pentest"
-canonical_url: null
-published: true
-description: "Subdomains and Security: How to Keep Your Development and Pre-Prod Environments Safe"
+image: /assets/images/security.jpg
 ---
 
 As a business, it's important to have a strong online presence and use modern technologies to develop and test your apps.

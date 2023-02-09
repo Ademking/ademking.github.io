@@ -2,11 +2,7 @@
 title: "Fixing Corrupted DOCX Files with PowerShell: A Step-by-Step Guide"
 date: 2023-01-25 01:00:00
 categories: [powershell, tools]
-cover_image: /../assets/images/1674672825467.png
-tags: "powershell, tools"
-canonical_url: null
-published: true
-description: "Fixing Corrupted DOCX Files with PowerShell: A Step-by-Step Guide"
+image: /assets/images/1674672825467.png
 ---
 
 As businesses continue to rely heavily on technology, it's become increasingly important to ensure that all systems are running smoothly. One area where this is especially true is with the generation and distribution of reports. In today's fast-paced business environment, it's essential that reports are delivered on time and in a format that can be easily read and understood. Unfortunately, this isn't always the case...

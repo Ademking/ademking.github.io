@@ -3,11 +3,7 @@ layout: post
 title: Using Node.js to Parse a JSON File Generated from WPScan
 date: 2023-01-04 10:00:00
 categories: [nodejs, javascript, pentest]
-cover_image: /../assets/images/1673405580485.png
-tags: "nodejs, javascript, pentest"
-canonical_url: null
-published: true
-description: Using Node.js to Parse a JSON File Generated from WPScan
+image: /assets/images/1673405580485.png
 ---
 
 WPScan is a popular tool for performing security assessments on WordPress websites.

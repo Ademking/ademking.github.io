@@ -3,11 +3,7 @@ layout: post
 title: Removing Dark Classes from a Tailwind CSS code
 date: 2023-01-02 10:00:00
 categories: [tailwind, tricks, css]
-cover_image: /../assets/images/1673405580473.jpeg
-tags: "tailwind, tricks, css"
-canonical_url: null
-published: true
-description: Removing Dark Classes from a Tailwind CSS code
+image: /assets/images/1673405580473.jpeg
 ---
 
 If you're using the popular CSS framework Tailwind CSS, you may have noticed that it includes a number of "dark" classes that are prefixed with `dark-.` These classes are designed to be used in conjunction with the @dark variant, which changes the appearance of your site when the user has chosen a "dark" theme.

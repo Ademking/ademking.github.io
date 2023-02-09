@@ -37,7 +37,7 @@ layout: default
             "url": "{{ site.baseurl }}{{ post.url }}",
                 "categories" : "{{ post.categories | join: ', ' | escape }}",
                     "date": "{{ post.date | date_to_string }}",
-                        "image"    : "{{ post.cover_image }}"
+                        "image"    : "{{ post.image }}"
     } {% unless forloop.last %}, {% endunless %}
     {% endfor %}
   ]

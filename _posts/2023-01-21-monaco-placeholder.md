@@ -2,11 +2,7 @@
 title: "How to add a placeholder to Monaco editor"
 date: 2023-01-21 01:00:00
 categories: [react, programming]
-cover_image: /../assets/images/1674320695421.png
-tags: "react, programming"
-canonical_url: null
-published: true
-description: "How to add a placeholder to Monaco editor"
+image: /assets/images/1674320695421.png
 ---
 
 I was playing around with the [Monaco editor](https://microsoft.github.io/monaco-editor/) and I wanted to add a placeholder to it. Just like the placeholder in VSCode. I couldn't find any documentation on how to do it, so I decided to write this post. I will be using the Monaco editor in React, but the same concept can be applied to any other framework.
@@ -19,7 +15,7 @@ VSCode is using Monaco, and it has a placeholder. So I decided to look at the so
 
 I found out how they did it...
 
-![](/../assets/images/1674320695435.png)
+![](/assets/images/1674320695435.png)
 
 It's in the file [untitledTextEditorHint.ts](https://github.com/microsoft/vscode/blob/main/src/vs/workbench/contrib/codeEditor/browser/untitledTextEditorHint/untitledTextEditorHint.ts).
 

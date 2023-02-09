@@ -3,11 +3,7 @@ layout: post
 title: "VSCode Extensions That Makes My Work Easier: A Review"
 date: 2023-01-14 10:00:00
 categories: [vscode, extensions]
-cover_image: /../assets/images/1673645857633.png
-tags: "vscode, extensions"
-canonical_url: null
-published: true
-description: "VSCode Extensions That Makes My Work Easier: A Review"
+image: /assets/images/1673645857633.png
 ---
 
 If you're a developer, you probably use VSCode. It's one of the best code editors out there. It's fast, lightweight, and has a lot of great features.
@@ -38,7 +34,7 @@ Enjoy! 💖
 - pub https://pub.dev/
 - composer https://getcomposer.org/
 
-![](/../assets/images/1673645857653.gif)
+![](/assets/images/1673645857653.gif)
 
 ## 2. Tailwind CSS Highlight
 
@@ -46,7 +42,7 @@ Enjoy! 💖
 
 This extension is useful for developers who use TailwindCSS. It helps you see the utilities you are using in your code.
 
-![](/../assets/images/1673645857920.png)
+![](/assets/images/1673645857920.png)
 
 ## 3. SonarLint
 
@@ -54,7 +50,7 @@ This extension is useful for developers who use TailwindCSS. It helps you see th
 
 This extension lets you fix coding issues before they exist! Like a spell checker. It's a great extension for developers who want to write better code.
 
-![](/../assets/images/1673645858083.gif)
+![](/assets/images/1673645858083.gif)
 
 ## 4. Snyk Security Extension
 
@@ -62,13 +58,13 @@ This extension lets you fix coding issues before they exist! Like a spell checke
 
 It scans and provides analysis of your code including open source dependencies and infrastructure as code configurations
 
-![](/../assets/images/1673645858106.jpeg)
+![](/assets/images/1673645858106.jpeg)
 
 ## 5. Snippet Creator
 
 [Snippet Creator](https://marketplace.visualstudio.com/items?itemName=wware.snippet-creator) This extension helps to automate snippet creation. Select the code you want to create snippet from and use command Create Snippet from the command palette or your custom keybind. Very useful for developers who want to create snippets at a faster pace.
 
-![](/../assets/images/1673645858915.gif)
+![](/assets/images/1673645858915.gif)
 
 ## 6. Import Cost
 
@@ -76,7 +72,7 @@ It scans and provides analysis of your code including open source dependencies a
 
 This extension is useful for developers who want to know the size of the imported package. It helps you keep your codebase small.
 
-![](/../assets/images/1673645858095.gif)
+![](/assets/images/1673645858095.gif)
 
 ## 7. Console Ninja
 
@@ -90,7 +86,7 @@ No more digging through your browser console or terminal output to find the righ
 
 [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) This extension helps you log variables and objects in the console with a single button press. This extension make debugging much easier by automating the operation of writing meaningful log message.
 
-![](/../assets/images/1673645858100.gif)
+![](/assets/images/1673645858100.gif)
 
 ## 9. Transformer
 
@@ -105,21 +101,21 @@ No more digging through your browser console or terminal output to find the righ
 - Sort Selections - Split Lines After - Split Lines Before - Split Lines
 - Trim Lines - Trim Selections - Unique Lines As New Document - Unique Lines
 
-![](/../assets/images/1673645858896.png)
+![](/assets/images/1673645858896.png)
 
-![](/../assets/images/1673645857925.png)
+![](/assets/images/1673645857925.png)
 
 ## 10. Inline Fold
 
 [Inline Fold](https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold) mimics VS Code's folding experience for inline code. This is especially useful when working with frameworks like Tailwind CSS which use lots of utility classes that often disfigure code visual structure. You can expand the folds by clicking on them. You can also configure the extension to target specific attributes in your markup. The characters used as a mask can be configured in the settings and you can update the regex expression to match any code pattern you want. The extension also enables folding of attribute values within HTML/JSX tags. It makes your code tidy and easier to navigate.
 
-![](/../assets/images/1673645857978.png)
+![](/assets/images/1673645857978.png)
 
 ## 11. i18n Ally
 
 [i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally) One of the best extension for developers who work with internationalization. It helps you manage your translations in a better way. It supports JSON, YAML, PO, XLIFF, CSV, and more.
 
-![](/../assets/images/1673645858190.png)
+![](/assets/images/1673645858190.png)
 
 ## 12. GitHub Copilot Labs
 
@@ -135,7 +131,7 @@ No more digging through your browser console or terminal output to find the righ
 
 It is perfect for keeping an eye on what your pull request will look like, a pull request preview one could say. You don't have to leave your editor at all anymore!
 
-![](/../assets/images/1673645857965.gif)
+![](/assets/images/1673645857965.gif)
 
 ## 14. FigStack
 
@@ -148,7 +144,7 @@ Similar to Copilot, Figstack can help you write code faster. You can:
 - calculate the time complexity of functions.
 - and more.
 
-![](/../assets/images/1673645857978.jpeg)
+![](/assets/images/1673645857978.jpeg)
 
 ## 15. Error Lens
 
@@ -156,7 +152,7 @@ Similar to Copilot, Figstack can help you write code faster. You can:
 
 It will improve highlighting of errors, warnings and other language diagnostics.
 
-![](/../assets/images/1673645857948.png)
+![](/assets/images/1673645857948.png)
 
 ## 16. arrr
 
@@ -170,7 +166,7 @@ Features:
 - Automatic Modules Updates
 - Generates HTML, CSS, TS and spec files
 
-![](/../assets/images/1673645858081.gif)
+![](/assets/images/1673645858081.gif)
 
 ## 17. vscode-pets
 
@@ -180,7 +176,7 @@ It's a great extension for developers who want to have fun while coding.
 
 I know it's not a serious extension... but it's fun 😄. You can try it.
 
-![](/../assets/images/1673645857928.gif)
+![](/assets/images/1673645857928.gif)
 
 ## Final Words
 

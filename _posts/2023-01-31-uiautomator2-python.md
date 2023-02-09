@@ -3,11 +3,7 @@ layout: post
 title: "Getting Started with Uiautomator2"
 date: 2023-01-31 01:00:00
 categories: [python, android]
-cover_image: /../assets/images/python-adb.png
-tags: "python, android"
-canonical_url: null
-published: true
-description: "Getting Started with Uiautomator2"
+image: /assets/images/python-adb.png
 ---
 
 With the use of the uiautomator2 library and the Android Debug Bridge (ADB), we can automate various tasks on an Android device from a computer.

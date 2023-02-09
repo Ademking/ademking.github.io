@@ -2,11 +2,7 @@
 title: "BetterViewer: The Ultimate Image Viewing Experience For Your Browser"
 date: 2023-02-04 01:00:00
 categories: [extensions]
-cover_image: /../assets/images/betterviewer.png
-tags: "extensions"
-canonical_url: null
-published: true
-description: "BetterViewer: The Ultimate Image Viewing Experience For Your Browser"
+image: /assets/images/betterviewer.png
 ---
 
 In this blog post, we'll take a look at BetterViewer, a Chrome extension I created that allows you to view images in a more convenient and customizable way.

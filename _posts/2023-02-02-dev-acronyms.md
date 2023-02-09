@@ -2,11 +2,7 @@
 title: "Acronyms Every Developer Should Know"
 date: 2023-02-02 01:00:00
 categories: [programming]
-cover_image: /../assets/images/default-blog-post.png
-tags: "programming"
-canonical_url: null
-published: true
-description: "Acronyms Every Developer Should Know"
+image: /assets/images/default-blog-post.png
 ---
 
 As a developer, it's important to stay up to date with the latest technology trends and advancements, and understanding important acronyms is one way to do that. Here are some advanced acronyms that every developer should be familiar with:

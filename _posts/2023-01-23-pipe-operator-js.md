@@ -2,11 +2,7 @@
 title: "Simplifying Syntax: The Coming of the Pipeline Operator to JavaScript"
 date: 2023-01-23 01:00:00
 categories: [javascript]
-cover_image: /../assets/images/pipeline.jpg
-tags: "javascript"
-canonical_url: null
-published: true
-description: "Simplifying Syntax: The Coming of the Pipeline Operator to JavaScript"
+image: /assets/images/pipeline.jpg
 ---
 
 Pipeline operator is a new feature that is coming to JavaScript in the future. It is a new operator that allows you to chain functions together. It is similar to the Unix pipe operator, which allows you to chain commands together.

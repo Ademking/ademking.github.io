@@ -2,11 +2,7 @@
 title: "Laravel Kit: A Game Changer for Laravel Developers"
 date: 2023-01-24 01:00:00
 categories: [laravel, tools]
-cover_image: /../assets/images/laravel.png
-tags: "laravel, tools"
-canonical_url: null
-published: true
-description: "Laravel Kit: A Game Changer for Laravel Developers"
+image: /assets/images/laravel.png
 ---
 
 I use Laravel a lot for my projects, and I've always found it to be a great framework. However, I've always found it to be a bit of a pain to manage and maintain. That's why I'm so excited to introduce you to Laravel Kit

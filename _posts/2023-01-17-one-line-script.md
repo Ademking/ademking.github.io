@@ -3,11 +3,7 @@ layout: post
 title: "One-liner Bug Hunting: My Favorite Commands"
 date: 2023-01-17 01:00:00
 categories: [commands, pentest]
-cover_image: /../assets/images/1673958014729.gif
-tags: "commands, pentest"
-canonical_url: null
-published: true
-description: "One-liner Bug Hunting: My Favorite Commands"
+image: /assets/images/1673958014729.gif
 ---
 
 In this post, I will be sharing some of my favorite one-liner commands that I use for bug hunting. These commands can be used to perform reconnaissance, identify open ports, check for file inclusion vulnerabilities, and much more. I hope you find them useful.
