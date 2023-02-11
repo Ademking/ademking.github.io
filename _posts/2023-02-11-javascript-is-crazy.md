@@ -77,7 +77,7 @@ parseInt(0.0000005); // -> 5
 
 ## Conclusion
 
-![](assets/images/jscrazy.png)
+![](/assets/images/jscrazy.png)
 
 No more JavaScript for me. I'm going to use Java instead. It's much more predictable... _(Just kidding! I HATE JAVA... JVM and all that crap)_
 
