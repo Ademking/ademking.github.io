@@ -1,6 +1,6 @@
 ---
 title: "AI content is everywhere. Is it a good thing?"
-date: 2023-02-14 01:00:00
+date: 2023-02-15 01:00:00
 categories: [general]
 image: /assets/images/default-blog-post.png
 ---
