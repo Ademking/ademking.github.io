@@ -53,7 +53,7 @@ You can chain the output to a file and use it for further analysis.
 
 Example:
 
-![](https://i.ibb.co/7QcSyLd/34f9f6fdcc39.png)
+![](https://i.imgur.com/VbTeHv1.png)
 
 ## Shodan search
 
