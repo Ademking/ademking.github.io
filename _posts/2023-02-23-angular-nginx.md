@@ -13,30 +13,30 @@ You can fix this issue by modifying the `try_files` in your Nginx configuration 
 
 ## How to Fix
 
-1. Open your Nginx configuration file (usually located at `/etc/nginx/nginx.conf`).
+- Open your Nginx configuration file (usually located at `/etc/nginx/nginx.conf`).
 
-Find the `try_files` directive and modify it to look like this:
+  Find the `try_files` directive and modify it to look like this:
 
-```
-location / {
-    root /usr/share/nginx/html;
-    index index.html index.htm;
-                            |
-                            | You need to add this
-                            v
-    try_files $uri $uri/ /index.html =404;
-}
-```
+  ```
+  location / {
+      root /usr/share/nginx/html;
+      index index.html index.htm;
+                              |
+                              | You need to add this
+                              v
+      try_files $uri $uri/ /index.html =404;
+  }
+  ```
 
-You just needed to add your index.html in the list
+  You just needed to add your index.html in the list
 
-2. Reload the config with
+- Reload the config with
 
-```
-sudo nginx -s reload
-```
+  ```
+  sudo nginx -s reload
+  ```
 
-That's it! Now your Angular app should work properly.
+  That's it! Now your Angular app should work properly.
 
 ## Explanation
 
