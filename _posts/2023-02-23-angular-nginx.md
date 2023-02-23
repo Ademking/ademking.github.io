@@ -30,7 +30,7 @@ location / {
 
 You just needed to add your index.html in the list
 
-2. reload the config with
+2. Reload the config with
 
 ```
 sudo nginx -s reload
