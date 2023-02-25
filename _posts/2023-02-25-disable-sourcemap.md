@@ -2,7 +2,7 @@
 title: "Why You Should Disable Source Maps in Production"
 date: 2023-02-25 01:00:00
 categories: [javascript, pentest, tutorial]
-image: /assets/images/default-blog-post.png
+image: /assets/images/sourcemaps-bad.png
 ---
 
 Sourcemap is a powerful tool for developers when debugging their JavaScript code. They provide a way to map the minified, production code back to the original, unminified source code.
