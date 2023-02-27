@@ -1,6 +1,6 @@
 ---
 title: "Generate diagrams using ChatGPT"
-date: 2023-02-25 01:00:00
+date: 2023-02-26 01:00:00
 categories: [chatgpt, tutorial]
 image: /assets/images/chatgpt-diag-2.jpg
 ---
