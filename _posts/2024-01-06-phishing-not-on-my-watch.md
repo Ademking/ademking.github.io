@@ -109,7 +109,7 @@ This is the hacker's telegram group. It has 10 members.
 
 ![](https://i.imgur.com/dWs6IoM.png)
 
-I think there are from Vietnam. I don't speak Vietnamese, so I can't be sure.
+I think the hacker is from Vietnam. I don't speak Vietnamese, so I can't be sure.
 
 ![](https://i.imgur.com/XX5AjWC.png)
 
