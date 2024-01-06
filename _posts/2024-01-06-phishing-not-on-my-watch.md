@@ -127,6 +127,10 @@ Also, I've reported the hacker's website to the hosting provider and they've tak
 
 ![](https://i.imgur.com/S6qmDFg.png)
 
+Thanks to the hosting provider for taking action so quickly. 👏👏👏
+
+![](https://i.imgur.com/TInOvzu.png)
+
 ## Chapter 5: Conclusion
 
 Phishing is a serious problem. Many people fall for these scams and lose their accounts.
