@@ -184,27 +184,27 @@ And that's it. The phishing site is down. The hacker can't access the database a
 
 Let me explain what happened here.
 
-1. The victims visit the phishing site.
+(1) The victims visit the phishing site.
 
-2. The website is using Iframe inside another Iframe to bypass facebook's phishing detection system.
+(2) The website is using Iframe inside another Iframe to bypass facebook's phishing detection system.
 
-3. The victims enter their email / passwords / etc...
+(3) The victims enter their email / passwords / etc...
 
-4. The website sends a POST request to Google Script a.k.a. Google Apps Script.
+(4) The website sends a POST request to Google Script a.k.a. Google Apps Script.
 
-5. The script will store the victim's data in a Google Sheet.
+(5) The script will store the victim's data in a Google Sheet.
 
-6. The google script will fire a validation algorithm to check if the victim data is valid or not.
+(6) The google script will fire a validation algorithm to check if the victim data is valid or not.
 
-7. The backend tries to login to the victim's account using the victim's credentials.
+(7) The backend tries to login to the victim's account using the victim's credentials.
 
-8. If the login is successful, then the victim's data is valid. Otherwise, wait for 2FA code from the victim.
+(8) If the login is successful, then the victim's data is valid. Otherwise, wait for 2FA code from the victim.
 
-9. The backend will change the status of the victim's data to "Valid" or "Invalid".
+(9) The backend will change the status of the victim's data to "Valid" or "Invalid".
 
-10. The hacker will receive a notification when someone falls for the scam.
+(10) The hacker will receive a notification when someone falls for the scam.
 
-11. The hacker will login to the admin panel and download the victim's data.
+(11) The hacker will login to the admin panel and download the victim's data.
 
 I think the workflow is clear now.
 
