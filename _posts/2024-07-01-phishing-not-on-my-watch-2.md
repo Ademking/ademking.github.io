@@ -178,6 +178,10 @@ And that's it. The phishing site is down. The hacker can't access the database a
 
 ![](https://i.imgur.com/Ffzkwbk.png)
 
+Update: I'v also contacted the shortener service and asked them to take down the link. They took down the link.
+
+![](https://i.imgur.com/l2tgX2c.png)
+
 ## Chapter 4: Conclusion
 
 ![](https://i.imgur.com/nnaEbQA.png)
